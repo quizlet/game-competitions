@@ -1,0 +1,31 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classnames": "2.3.2",
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "8.0.6",
+    "raw-loader": "4.0.2",
+    "remark-gfm": "3.0.1",
+    "react-syntax-highlighter": "15.5.0",
+    "dataset": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.12",
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "eslint-config-custom": "*",
+    "sass": "1.60.0",
+    "tsconfig": "*",
+    "typescript": "^4.5.3"
+  }
+}

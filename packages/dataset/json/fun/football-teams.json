@@ -1,0 +1,1441 @@
+{
+  "set": {
+    "id": 792129019,
+    "timestamp": 1681277027,
+    "lastModified": 1681277029,
+    "publishedTimestamp": 1681277029,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Football Teams",
+    "description": "",
+    "numTerms": 32,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792129019/football-teams-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762946739916800,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1440722990,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Titans",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tennessee",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HnEKv8sEma3gtdpT",
+              "url": "https://o.quizlet.com/i/an0hSx4q7iHgg3S0cnN3Tg_m.jpg",
+              "width": 512,
+              "height": 366
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916801,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1440723027,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Colts",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Indianapolis",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "53P7DY9W96jckGJv",
+              "url": "https://o.quizlet.com/i/qGU7-3LlzbwHMBLdg3U6cg_m.jpg",
+              "width": 512,
+              "height": 551
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916802,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1440723027,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Texens",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Houston",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916803,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1440723040,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Jags",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Jacksonville",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KAx7x9FyHvfTMNmA",
+              "url": "https://o.quizlet.com/i/l0wLqS2p8rbgJpTJxbfuig_m.jpg",
+              "width": 512,
+              "height": 409
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916804,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1440723054,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bengals",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cincinnati",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Hj2RP5S3dsUr9ac2",
+              "url": "https://o.quizlet.com/i/3Cig5wtxQWg2ak4f40NPAg_m.jpg",
+              "width": 512,
+              "height": 373
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916805,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1440723054,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Steelers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pittsburgh",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "M5kG3qnSxeYDVZh8",
+              "url": "https://o.quizlet.com/i/pcUPkXb5NW8nDvRbyAgcOQ_m.jpg",
+              "width": 512,
+              "height": 522
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916806,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1440723073,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Browns",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cleveland",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916807,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1440723073,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Panthers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Carolina",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CfS4GTfx5cP5N4TV",
+              "url": "https://o.quizlet.com/i/S21efZi1ojIHwH5_AucgtA_m.jpg",
+              "width": 512,
+              "height": 275
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916808,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1440723090,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ravens",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Baltimore",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6yCy2hTe2p4DjfBa",
+              "url": "https://o.quizlet.com/i/VthHRlvs0HpFaWR-BCaAMA_m.jpg",
+              "width": 512,
+              "height": 256
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916809,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1440723104,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Jets",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "New York",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KjtnKcKZTGMHAmRW",
+              "url": "https://o.quizlet.com/i/p3TvVLn2M76N2_HufChBDQ_m.jpg",
+              "width": 512,
+              "height": 287
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916810,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1440723126,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Patriots",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "New England",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zqnkASmmA8ubmYk6",
+              "url": "https://o.quizlet.com/i/Hga8V2xM2shBhIc3HNuiuA_m.jpg",
+              "width": 512,
+              "height": 234
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916811,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1440723126,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bills",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Buffalo",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916812,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1440723126,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dolphins",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Miami",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "UXTRQVnz2ryuhZtn",
+              "url": "https://o.quizlet.com/i/Z_pXShjTqtfg_W2_GZLyVg_m.jpg",
+              "width": 512,
+              "height": 590
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916813,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1440723169,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chargers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "San Diego",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bGa4GefQv474uvmB",
+              "url": "https://o.quizlet.com/i/C3eyuPimL6-5dssw-mHrQA_m.jpg",
+              "width": 512,
+              "height": 275
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916814,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1440723169,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Raiders",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Oakland",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9WuH6VrTTcDPkWpg",
+              "url": "https://o.quizlet.com/i/_k-Tj_SswitBQx3-OBz98g_m.jpg",
+              "width": 512,
+              "height": 516
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916815,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1440723185,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chiefs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Kansas city",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NwWhMt5Y3xBbJrQB",
+              "url": "https://o.quizlet.com/i/_AWYDlC7KmY5TU6-bDB5Hg_m.jpg",
+              "width": 512,
+              "height": 332
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916816,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1440723185,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Broncos",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Denver",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "47puHGXqaFMX9bU6",
+              "url": "https://o.quizlet.com/i/ypmUPF_sMECIog88buDoyw_m.jpg",
+              "width": 512,
+              "height": 298
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916817,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1440723243,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "49ers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "San Fransico",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TJCTjDCTHyJAY2vj",
+              "url": "https://o.quizlet.com/i/0_s3vkTqWWms6i2ij09wGg_m.jpg",
+              "width": 512,
+              "height": 298
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916818,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1440723267,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Rams",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "St.Louis",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DAaVynjX2tHU2QSB",
+              "url": "https://o.quizlet.com/i/7C4wAaLa0ORzfxVaC-J1Ww_m.jpg",
+              "width": 512,
+              "height": 366
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916819,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1440723281,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Seahawks",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Seattle",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8vE8Ve7crTvgxBwm",
+              "url": "https://o.quizlet.com/i/MIITbfQYJkyCbgSq_e_OPA_m.jpg",
+              "width": 512,
+              "height": 224
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916820,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1440723294,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cardinals",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Arizona",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hDn2bsEdbQTh4VB6",
+              "url": "https://o.quizlet.com/i/OBnRbc9qjj0rkpxIAIGxkQ_m.jpg",
+              "width": 512,
+              "height": 305
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916821,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1440723313,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Redskins",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Washington",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sNhRm6DZKtz7J2GB",
+              "url": "https://o.quizlet.com/i/OYiTOtYcw6rZg1ykatvWIw_m.jpg",
+              "width": 512,
+              "height": 520
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916822,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1440723313,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Giants",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "New York",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "tVXnxR3vwX385gsp",
+              "url": "https://o.quizlet.com/i/zDsybRWzRuZ61DflHtjdMA_m.jpg",
+              "width": 512,
+              "height": 401
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916823,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1440723340,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Eagels",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Philadelphia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916824,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1440723340,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cowboys",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dallas",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qGj2qnBNrmAGwkas",
+              "url": "https://o.quizlet.com/i/sYcMPfa2-nwCgFMKGzD2Jw_m.jpg",
+              "width": 512,
+              "height": 484
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916825,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1440723374,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bucaneers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tampa Bay",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6CJ5rDsNHnGezmbX",
+              "url": "https://o.quizlet.com/i/WeBPiOR7kag7SJnqb5gR-w_m.jpg",
+              "width": 512,
+              "height": 471
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916826,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1440723374,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Falcons",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Atlanta",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "scWg46XqGbJdy7UX",
+              "url": "https://o.quizlet.com/i/8tx3FV0Z0PNIqVpNez4Vsg_m.jpg",
+              "width": 512,
+              "height": 482
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916827,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1440723393,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Saints",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "New Orleans",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916828,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1440723405,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Packers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Green Bay",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "naTMchV46FmmCnv8",
+              "url": "https://o.quizlet.com/i/pge-MLDDedN4fg__5OqOLw_m.jpg",
+              "width": 512,
+              "height": 337
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916829,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1440723421,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Vikings",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Minnesota",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "M4x2jt9uMaJ9GCsT",
+              "url": "https://o.quizlet.com/i/LYfWa-3F2cMcNlqMKwZtSw_m.jpg",
+              "width": 512,
+              "height": 678
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916830,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1440723421,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lions",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Detroit",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762946739916831,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792129019,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1440723466,
+      "lastModified": 1681277027,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bears",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chicago",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

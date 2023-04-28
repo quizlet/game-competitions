@@ -1,0 +1,4971 @@
+{
+  "set": {
+    "id": 792124102,
+    "timestamp": 1681274609,
+    "lastModified": 1681274640,
+    "publishedTimestamp": 1681274640,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Case Law - Contract",
+    "description": "",
+    "numTerms": 127,
+    "hasImages": false,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792124102/case-law-contract-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762944205496320,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274640,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Carlill v Carbolic Smoke Ball",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "1) Unilateral offer. When reward offered for information or act, performance = acceptance. \n2) Mention in ad of £1000 deposited in the bank showed intention to be bound and would be understood as such by reasonable person.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496321,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Gunthing v Lynn",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Conditional payment of £5 extra for the horse if it was lucky was too vague to create a binding contract between the parties so the only part of the transaction that was sufficient was the purchase of the horse \nWords in an agreement must be clear so both parties can be sure of the terms they're contracting.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496322,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Felthouse v Bindley",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Silence cannot constitute acceptance. Acceptance must be communicated by word or performance.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496323,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Fisher v Bell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Display of goods in shop window is an invitation to treat; flick knives",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496324,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "PSGB v Boots",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Goods on the shelf constitute an ITT. The contract is concluded at the till in the presence of a pharmacist (self service system)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496325,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Partridge v Crittendon",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Offer/acceptance. Unlawfully selling live wild birds. A newspaper advertisement of goods for sale (bilateral contract) is normally an invitation to treat and not usually held to be offers because they often lead to further bargaining.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496326,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Stevenson v McLean",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-A request for further information is not a counter offer\n-D asked to pay in installments (an enquiry)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496327,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "British Car Auctions v Wright",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lots at an auction are an invitation to treat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496328,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Harvey v Facey",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Facey did not directly answer the question and was merely responding to a request of further information\nStatement of price is not an offer (pen)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496329,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Taylor v Laird",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Offer must be communicated",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496330,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hyde v Wrench",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A counter offer terminates the original offer (farm)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496331,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Routledge v Grant",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Offer can be withdrawn at any time before acceptance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496332,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Byrne v Van Tienhoven",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Revocation must be communicated - no postal rule",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496333,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1664449181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dickinson v Dodds",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Revocation can be communicated by a reliable third party",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496334,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1664449717,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pickfords v Celestica",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The defendant had thought he accepted an offer which had already been withdrawn. The defendant was due to pay the sum shown on the first offer calculated by rate",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496335,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1664449717,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Butler Machine Tool v Ex-Cell-O Corporation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-The offer to sell the machine on terms provided by Butler was destroyed by the counter offer made by Ex-Cell-O. \n-Therefore the price variation clause was not part of the contract.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496336,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1664449717,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ramsgate Victoria Hotel v Montefiore",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An offer may be terminated by:\n1. Death of offeror or offeree\n2. Lapse of time",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496337,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1664449717,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Adams v Lindsell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Acceptance is complete on posting",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496338,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1664449717,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Holwell Securities v Hughes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Postal rule cannot apply where it leads to an absurdity, can be ousted if explicitly ruled \"by notice in writing\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496339,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1664808564,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Household Fire Insurance v Grant",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The postal rule applies even if acceptance is never received",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496340,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1664885282,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yates Building Co v Pulleyn",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Acceptance - if a prescribed method is for the benefit of the offeree then they may waive that requirement.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496341,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1664885395,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Entores v Miles Far East",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Telex accepted when received in England",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496342,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1664885421,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Brinkibon v Stahag Stahl",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Acceptance reasonable when office hours resume",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496343,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1664885492,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pereira Fernandes SA v Mehta",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-If a document is signed then the person will be bound by it ('in writing')\n-Was not a valid offer as the court rejected that the email address itself amounted to a signature",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496344,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1664885807,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Balfour v Balfour",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Presumption that there was no intention to create legal relations in purely social and domestic agreement; can be rebutted. \n-A wife was forced to remain in England while her husband worked abroad. She was not able to enforce an alleged agreement that he would provide her with £30 a month maintenance, while he was abroad, since no legal relations had been contemplated between the parties.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496345,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Merritt v Merritt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Contrast to Balfour v Balfour\nEstranged husband agrees to pay £40 a month to pay for mortgage + separation process = presumption of an intent to create legal relations",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496346,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Simpkin v Payes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lodger refused to split competition earnings despite entering alongside the household - was an intent to enter legal relations",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496347,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Jones v Vernon Pools",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Coupon intended to be 'binding in honour only' so was not enforceable contract.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496348,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Edwards v Skyways",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Agreements made in a business context raise a strong presumption that the agreement is legally binding",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496349,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Esso Petroleum v Commissions of Customs and Excise",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Esso have away world cup token in exchange for 4 gallons of petrol from motorists \n-HoL said Esso were making an attempt to gain more business and ITLR - commercial advantage",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496350,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1665054983,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hardwick v Johnson",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mother purchased house as a residence for her son and his wife on the terms they pay £7 a week \nThe agreement has legal intent so long as the couple paid the money",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496351,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1675509129,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dunlop v Selfridge",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dunlop was not listed as an agent within the contract and could therefore not be included as a valid third-party who had rights to claim on the contract.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496352,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1675511121,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ward v Byham",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Consideration was sufficient\n-Father agreed to pay mother £1 a week to ensure child was well looked after and happy but he stopped making payments\n-He argued she was under a legal obligation to maintain the child so wasn't providing consideration \n-Court held by making the child happy she has gone beyond her existing legal duty so she was entitled to payment",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496353,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1666269368,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Thomas v Thomas",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Consideration must be sufficient but need not be adequate.\nWife staying in house after husband's death. Consideration has to be something of value in the eyes of the law.\nThe widows £1 donation to the repairs and upkeep of the house was sufficient although not adequate to make the owners promise binding.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496354,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1666269427,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Williams v Roffey Bros",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Consideration was provided by the claimant conferring a practical benefit on the defendant by helping them to avoid the penalty clause. Therefore the defendant was liable to make the extra payments promised\nPerforming an existing obligation can be consideration if a benefit is discussed upon a promise \nRoffey Bros offered Williams bonus payment to finish on time who worked until payments stopped. He sued for breach of contract",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496355,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1666269602,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Re McArdle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "McArdle repaired her property that was owned by a trust. Trust offered to compensate her after the work was done but then refused to pay.\nHeld McArdle was not entitled to the payment because her consideration was in the past.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496356,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1675511121,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Roscorla v Thomas",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Past consideration is not good consideration\n-Sold horse and Ds statement that it was free from vice but it was violent was made after the sale\n-Question was whether that promise was good consideration\n-Court said claimant had already agreed to buy horse and the £30 was in the past",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496357,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1666269667,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lampleigh v Braithwaite",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "EXCEPTION TO PAST CONSIDERATION\n-B killed someone and asked L to get a pardon from the king. L did so and promised to pay L for his troubles.\n-Whilst the promise to make payment came after performance and was thus past consideration, the consideration was proceeded by a request meaning consideration was valid as there was an expectation to pay",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496358,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1666269796,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chappell v Nestle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The wrappers did form part of the consideration as the object was to increase sales and therefore provided value. The fact that the wrappers were simply to be thrown away did not detract from this. Therefore Chappel were granted the injunction and Nestle could not sell the records",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496359,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1666269871,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tweddle v Atkinson",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "CONSIDERATION MUST MOVE FROM PROMISEE\n-The father of the bride entered an agreement with the father of the groom that they would each pay the couple a sum of money. The father of the bride died without having paid. The father of the son also died so was unable to sue on the agreement. The groom made a claim against the executor of the will.\n-The groom was not party to the agreement and the consideration did not move from him.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496360,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1666270077,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Stilk v Myrick",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ship deserters- If a party has an existing contractual duty to do an act, this act can not be used as consideration for a new promise",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496361,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1675511731,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tulk v Moxhay",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Restrictive covenants run with the land - exception to privity of contract",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496362,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1675516087,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Eurymedon (1975)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Stevedores were privy to the contract as they provided services of unloading - consideration owed to a third party can be valid consideration for a promise to another party",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496363,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1675516087,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Shanklin Pier v Detel Products",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The owners of the pier could sue the manufacturers of the paint, even though the paint was bought by the painters, because the manufactures assurance about the paint made this a collateral contract (A contract may be given as consideration by simply agreeing to enter into another contract)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496364,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1675516087,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Beswick v Beswick",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where the beneficiary under a contract sues in some other capacity. The court said that although she was not a party to the contract (as the contract was between the uncle and nephew), she could sue in the capacity of administrator of her husband's estate (but not in her personal capacity)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496365,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1666270128,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Central London Property Trust v High Trees House",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-High Trees leased a block of flats from CLP at a ground rent of £2,500. The defendant had difficulty in getting tenants for all the flats and the ground rent left High Trees with no profit. CLP agreed to reduce the rent to £1,250 during the war years. The agreement was put in writing and High Trees paid the reduced rent from 1941. When the war was over the flats became fully occupied and the claimant sought to return to the originally agreed rent.\n-Established the doctrine of promissory estoppel, prevented CLP going back on their promise to accept a lower rent despite the fact that the promise was unsupported by consideration.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496366,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 1666270211,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Foakes v Beer",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Part payment of a debt is not good consideration (Pinnel's case)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496367,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dick Bentley Productions Ltd v Harold Smith",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where the person making the representation has special knowledge or skill that was held in reliance will have placed him in a stronger position than the buyer. The Court held the dealer 's statement a term .",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496368,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Routledge v McKay",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Statement made about the age of a motorcycle was made two days before purchase had completed - due to the length of time, this was held to be a representation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496369,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "L'Estrange v Graucob",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Agreements in writing \nG was protected by the clause and L failed in her action since she signed contract",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496370,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 50,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Oscar Chess Ltd v Williams",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lack of expert knowledge is likely to prevent a representation being a term",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496371,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 51,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Birch v Paramount Estates",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Statement was so crucial to forming contract it became a term\n-An oral statement about the quality of a house was not included in the contract. The court considered the special skills and knowledge that the defendants had in concluding that the statement was a term",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496372,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 52,
+      "creatorId": 305811011,
+      "timestamp": 1681128267,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hutton v Warren",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Terms implied by custom - The term was implied as it was common practice for farming tenancies to contain such a clause.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496373,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 53,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Moorcock",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Business efficacy test - term implied by fact \nImplied term that boat would be moored safely at jetty",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496374,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 54,
+      "creatorId": 305811011,
+      "timestamp": 1669458861,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Liverpool City Council v Irwin",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Terms Implied in Law - Landlord who lets property's containing several homes in one building is under implied obligation to provide proper access to individual homes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496375,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 55,
+      "creatorId": 305811011,
+      "timestamp": 1671712586,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Rogers v Parish - s.9",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-The vehicle in question, which was sold as new, was found to be defective. Although, the defects did not make the car unsafe or unroadworthy and each of them was put right.\n-The court of Appeal held that the following factors should be taken into account when assessing the merchantable quality of goods: (a) The purpose for which the goods are commonly bought; (b) The description of goods; (c) The price.\nIn the circumstances of the present case, the motor vehicle bought by the plaintiffs was not of merchantable quality since it had a number of defects.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496376,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 56,
+      "creatorId": 305811011,
+      "timestamp": 1671712681,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Baldry v Marshall - s.10",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-P asked D to supply a car that would be suitable for touring purposes. The defendants recommended a Bugatti, which the plaintiff bought. The written contract excluded the defendant's liability for any \"guarantee or warranty, statutory or otherwise\". -The car turned out to be unsuitable for the plaintiff's purposes, so he rejected it and sued to recover what he had paid.\n-The Court of Appeal held that the requirement that the car be suitable for touring was a condition. Since the clause did not exclude liability for breach of a condition, the plaintiff was not bound by it.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496377,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 57,
+      "creatorId": 305811011,
+      "timestamp": 1671713155,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Re Moore and Landauer - s.11",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-A contract for the sale of 3,100 tins of peaches described the tins as being packed in cases of 30. When they arrived the tins were packed in cases of 24 although the agreed overall number of tins was supplied.\n-The purchaser was entitled to reject the goods as they were not as described.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496378,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 58,
+      "creatorId": 305811011,
+      "timestamp": 1671713664,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Olley v Marlborough Court",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Notice must be given before or at the time of contracting\n-Notice was on hotel wall after buying the room at the desk",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496379,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 59,
+      "creatorId": 305811011,
+      "timestamp": 1671713664,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chapleton v Barry",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The clause was not incorporated into the contract since it was a mere receipt given after contract was made",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496380,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 60,
+      "creatorId": 305811011,
+      "timestamp": 1671713715,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hollier v Rambler Motors",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The course of dealing must not only have been consistent but also regular to allow a term to be implied through previous dealings\n3 or 4 transactions over 5 years held to be insufficient (cf. Harry Kendall v William Lillico)\nIn consumer contracts, the courts are very unwilling to find that an exemption clause excludes liability for negligence (in this case, reference to fire damage)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496381,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 61,
+      "creatorId": 305811011,
+      "timestamp": 1673609388,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Spurling v Bradshaw",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Clause incorporated through previous dealings\n-The defendant would have been aware of the term from the previous contracts and therefore it did form part of the contract.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496382,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 62,
+      "creatorId": 305811011,
+      "timestamp": 1673610842,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Poussard v Spiers and Pond",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Terms can be 'conditions' going to the root of the contract and allowing for repudiation as well as an action for damages",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496383,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 63,
+      "creatorId": 305811011,
+      "timestamp": 1673610890,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bettini v Gye",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A warranty does not go to the root of the contract and will not allow repudiation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496384,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 64,
+      "creatorId": 305811011,
+      "timestamp": 1673611047,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hong Kong Fir v Kawasaki",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In deciding whether an innominate term should be treated as a condition or warranty, the court will ask \"does the breach deprive the innocent party of substantially the whole benefit of the contract\"?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496385,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 65,
+      "creatorId": 305811011,
+      "timestamp": 1674055025,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bisset v Wilkinson",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A false statement of opinion is not a misrepresentation of fact\nSheep.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496386,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 66,
+      "creatorId": 305811011,
+      "timestamp": 1674055043,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Edgington v Fitzmaurice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A statement of intention will only be a misrepresentation when that intention was never really held",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496387,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 67,
+      "creatorId": 305811011,
+      "timestamp": 1674055074,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Atwood v Small",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "C can't show that the representation induced the contract if reliance is made upon one's own judgement \n-C had not relied on the false statement - they relied on their own attempts to verify the accounts.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496388,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 68,
+      "creatorId": 305811011,
+      "timestamp": 1674055355,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Couchman v Hill",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Where one party states a fact that should be within his knowledge but not within the knowledge of the other party, it is likely to be incorporated as a term (misrep)\n-C purchased a pregnant cow which the seller stated was a heifer but it died\n-Description of the cow as a heifer was a substantial ingredient in the identity",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496389,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 69,
+      "creatorId": 305811011,
+      "timestamp": 1674055428,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Derry v Peek",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Fraudulent misrepresentation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496390,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 70,
+      "creatorId": 305811011,
+      "timestamp": 1674055441,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hedley Byrne v Heller",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Negligent misrepresentation and innocent (special relationship)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496391,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 71,
+      "creatorId": 305811011,
+      "timestamp": 1674389392,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Spice Girls v Aprilia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Misrepresentation can be made by conduct rather than verbal or written statements (ginger leaving the group interfered with Cs photo shoot campaign)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496392,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 72,
+      "creatorId": 305811011,
+      "timestamp": 1674389413,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hamilton v Allied Domecq",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Silence does not constitute a misrepresentation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496393,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 73,
+      "creatorId": 305811011,
+      "timestamp": 1674390339,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Doyle v Olby",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Defendant is liable for damages that flow from the fraudulent misrep whether foreseeable or not",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496394,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 74,
+      "creatorId": 305811011,
+      "timestamp": 1674638614,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Thompson v LMS Railway",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-C was illiterate and couldn't read exclusion clause \n-Clause was incorporated as there's only a requirement to take reasonable steps",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496395,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 75,
+      "creatorId": 305811011,
+      "timestamp": 1674638614,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Thornton v Shoe Lane Parking",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The machine itself constituted the offer. The acceptance was by putting the money into the machine. \n-Ticket was dispensed after the acceptance took place and therefore the clause was not incorporated into the contract.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496396,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 76,
+      "creatorId": 305811011,
+      "timestamp": 1674819142,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Atlas Express v Kafco",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Party threatens to breach contract or commit tort - will amount to duress.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496397,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 77,
+      "creatorId": 305811011,
+      "timestamp": 1674819187,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Universe Tankships v ITWF",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Blackmail - Claimant had no choice but to enter the contract (blocked the ship so they had to pay a large sum of money)\n:1. Compulsion of the will - absence of choice\n2. Illegitimacy of the pressure",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496398,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 78,
+      "creatorId": 305811011,
+      "timestamp": 1674819328,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Barton v Armstrong",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where a person enters a contract as a result of threats of physical violence, the contract may be set aside providing the threat was a cause of entering the contract. There is no need to establish that they would not have entered the contract but for the threat, it simply being sufficient that the death threats were a cause.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496399,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 79,
+      "creatorId": 305811011,
+      "timestamp": 1674819564,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pao On v Lau Yiu Long",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-C had threatened not to complete the main contract for the purchase of shares unless subsidiary agreements were met including a guarantee and an indemnity. D was anxious to complete the main contract as there had been a public announcement of the acquisition of shares and did not want to undermine public confidence in the company and the consequent affect on share prices\n-There was no economic duress as D did not protest at the time. \n-He also could have enforced the contract of sale through specific performance and thus had another avenue of redress available to him. SIMPLY COMMERCIAL PRESSURE",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496400,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 80,
+      "creatorId": 305811011,
+      "timestamp": 1674819886,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "CTN Cash and Carry v Gallagher",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Threat to refuse future business wasn't illegitimate pressure here but would be where the parties are not of equal bargaining power or if it was made in bad faith.\n-The threat to withdraw the credit facility was a lawful threat as Gallagher genuinely believed they were entitled to the money",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496401,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 81,
+      "creatorId": 305811011,
+      "timestamp": 1674819968,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Progress Bulk Carriers v Tube City",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-HC held that despite the fact that the owners' refusal to provide a substitute ship was not a tort or breach but it still amounted to economic duress.\n-Owners' unethical behaviour of offering help and withdrawing it in the very last moment was already preceded by a repudiatory breach. \n-Furthermore, the owners action left the charterers without an alternative. \n-Putting the charterers into a situation of false sense of security was in fact a manoeuvre to corner them - and thus it amounted to illegitimate pressure.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496402,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 82,
+      "creatorId": 305811011,
+      "timestamp": 1675074023,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Williams v Roffey Bros (discharge)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Consideration must be provided to end or vary a contract",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496403,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 83,
+      "creatorId": 305811011,
+      "timestamp": 1675074147,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Platform Funding v Bank of Scotland",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "D was a professional valuer who was contracted to estimate the value of \"1 Bakers Yard\". In fact, the house in question was on a plot of new houses with 5 properties on it. The defendant valued the wrong house. The valuation of the wrong property amounted to an actual breach as the performance had been different to what had been agreed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496404,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 84,
+      "creatorId": 305811011,
+      "timestamp": 1675074163,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pilbrow v Pearless de Rougemont",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Given an appointment with an employee who was not a qualified solicitor and he was not told that this was the case (asked for a meeting with a solicitor). He was dissatisfied with the service that he received and refused to pay for it. If the work is not completed as agreed by the parties, there will be an actual breach. This is the case even if the quality of the work is consistent with what was agreed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496405,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 85,
+      "creatorId": 305811011,
+      "timestamp": 1675074204,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Modahl v British Athletic Federation Ltd",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "C had been banned from competing as an athlete after failing a drugs test which she said was faulty. Her appeal was upheld, but she claimed damages for breach of contract in failing to provide an unbiased hearing. \nHeld: Though there was no written contract between her and the defendant, they had accepted an obligation to appoint a panel in accordance with their rules. They were not however liable for any breach of the rules of natural justice by individual panel members because they had provided the appeal.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496406,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 86,
+      "creatorId": 305811011,
+      "timestamp": 1675074480,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Abramova v Oxford Institute of Legal Practice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Claimant enrolled at the Oxford Institute of legal practice, she intended to become a solicitor but failed to pass. She brought a claim for breach of contract in relation to the educational service she was provided with. She relied on s. 12 of the supply of goods and services act 1982. She said that there was an implied term in agreement that the Institute would exercise reasonable care and skill in relation to the things such as feedback. The claim was dismissed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496407,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 87,
+      "creatorId": 305811011,
+      "timestamp": 1675074692,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hochester v De La Tour",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ANTICIPATORY BREACH\n-The claimant agreed to be a courier for the defendant for 3 months starting on 1st June 1852. On the 11th May the defendant wrote to the claimant stating he no longer wanted his services and refused to pay compensation. The claimant obtained a service contract elsewhere but this was not to start until 4th July. The claimant brought an action on 22nd May for breach of contract. The defendant argued that there was no breach of contract on 22nd May as the contract was not due to start until 1st of June.\nHeld: Where one party communicates their intention not to perform the contract, the innocent party need not wait until the breach has occurred before bringing their claim. They may sue immediately or they can choose to continue with the contract and wait for the breach to occur.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496408,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 88,
+      "creatorId": 305811011,
+      "timestamp": 1675103147,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Siboen and The Sibotre",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "'Such a degree of coercion that the other party was deprived of his free consent and agreement'",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496409,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 89,
+      "creatorId": 305811011,
+      "timestamp": 1675187600,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cutter v Powell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Partial performance is NO performance - must be complete and exact\n-C's husband died before voyage was completed. She tried to recover part of his wages. The Court said that she was not entitled to any money as the contract required complete performance as he did not fulfil the condition that he worked on a ship in Liverpool",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496410,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 90,
+      "creatorId": 305811011,
+      "timestamp": 1675177321,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dakin & Co v Lee",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Doctrine of substantial performance\n-Some building work was unsatisfactory so D refused to pay\n-The court upheld the claim since the obligations under the contract had been substantially completed, subject to a deduction of the cost of fixing the outstanding defects",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496411,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 91,
+      "creatorId": 305811011,
+      "timestamp": 1675189092,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hoeing v Isaacs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-C completed work but the defendant was unsatisfied some of the furnishings and refused to pay the all the final instalment. The cost of the defects in the furniture came to £56\n-C had substantially performed the contract and was therefore entitled to the contractually agreed price minus the cost of the defects.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496412,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 92,
+      "creatorId": 305811011,
+      "timestamp": 1675189181,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bolton v Mahadava",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The claimant installed central heating in the defendant's home. The agreed contract price was £560. The defendant was not happy with the work and refused to pay. Defects in the work amounted to £174. The action by the claimant to enforce the payment failed since the court held there was no substantial performance.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496413,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 93,
+      "creatorId": 305811011,
+      "timestamp": 1675189209,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sumpter v Hedges",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The court held that the defendant had no choice but to accept partial performance as he was left with a half completed house on his land.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496414,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 94,
+      "creatorId": 305811011,
+      "timestamp": 1675189209,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Planche v Colburn",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-C agreed to write a book \n-The agreed contract price was £100 to be payable on completion. C commenced writing and had completed a great deal of it when the defendant cancelled the series. D refused to pay the claimant despite his undertaking and the fact that the claimant was still willing to complete\n-C was entitled to recover £50 because the defendant had prevented the performance (and tender of performance due to non acceptance).",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496415,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 95,
+      "creatorId": 305811011,
+      "timestamp": 1675189271,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Taylor v Webb",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If obligations are divisible then payment should be made for the part performed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496416,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 96,
+      "creatorId": 305811011,
+      "timestamp": 1675189355,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Startup v MacDonald",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tender of performance - If a party offers to perform and is refused by the other party then payment is recoverable",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496417,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 97,
+      "creatorId": 305811011,
+      "timestamp": 1675247604,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Frost v Knight",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ANTICIPATORY BREACH\n-D promised to marry fiancé when his father died but broke off engagement before he died\n-Fiancé successfully sued",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496418,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 98,
+      "creatorId": 305811011,
+      "timestamp": 1675348439,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Taylor v Caldwell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "IMPOSSIBILITY - burnt down concert hall\nDestruction or unavailability of something essential for the contract's performance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496419,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 99,
+      "creatorId": 305811011,
+      "timestamp": 1675350276,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Morgan v Manser",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "IMPOSSIBILITY - Unavailability of person: incapacity. D was a famous music hall performer who was conscripted into WWII, where he was sued by agent for non appearance at music halls",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496420,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 100,
+      "creatorId": 305811011,
+      "timestamp": 1675350276,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Metropolitan Water Board v Dick Kerr",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ILLEGAL - Contract may be frustrated by gov intervention (stopped reservoir project due to war outbreak)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496421,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 101,
+      "creatorId": 305811011,
+      "timestamp": 1675350276,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Krell v Henry",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "PURPOSE - Room was booked to observe coronation of Edward VII but it was postponed due to his illness. Central purpose of booking was to view procession therefore contract was frustrated",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496422,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 102,
+      "creatorId": 305811011,
+      "timestamp": 1675350531,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Herne Bay Steam Boat v Hutton",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Opposes Krell v Henry - no commercial sterilisation.\n-As part of Edward VIIs coronation D hired a boat to watch but coronation was cancelled due to illness \n-Central purpose of contract was a trip round the Solent which remained so there was no frustration",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496423,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 103,
+      "creatorId": 305811011,
+      "timestamp": 1675680295,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Jarvis v Swan's Tours Ltd",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where a contract is entered for the specific purpose of the provision of enjoyment or entertainment, damages may be awarded for the disappointment, distress, upset and frustration caused by a breach of contract in failing to provide the enjoyment or entertainment.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496424,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 104,
+      "creatorId": 305811011,
+      "timestamp": 1675680340,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Farley v Skinner",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Can still get loss of amenity if enjoyment and pleasure are only part of the purpose of the contract, not the whole purpose (flight path houses)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496425,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 105,
+      "creatorId": 305811011,
+      "timestamp": 1675680604,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Quinn v Burch Bros",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In order to claim damages for breach of contract, there must be a casual link between the breach and the damage suffered by the innocent party.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496426,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 106,
+      "creatorId": 305811011,
+      "timestamp": 1675680629,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Transfield Shipping v Mercator Shipping",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A defendant will only be liable for such losses as were \"reasonably foreseeable\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496427,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 107,
+      "creatorId": 305811011,
+      "timestamp": 1675680709,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Anglia Television v Reed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Damages were given for the reliance interest instead of the expectation interest because it was impossible to calculate how much they would have made from the show",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496428,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 108,
+      "creatorId": 305811011,
+      "timestamp": 1675680741,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Charter v Sullivan",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where demand exceeds supply and the market is readily available, the claimant can still make his or her profit so there is no loss to be compensated",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496429,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 109,
+      "creatorId": 305811011,
+      "timestamp": 1675680771,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chaplin v Hicks",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Damages may be awarded for loss of chance assessment of her loss was problematic since it could not be determined if she would have been chosen the Claimant still received £100 compensation.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496430,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 110,
+      "creatorId": 305811011,
+      "timestamp": 1675680852,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Fibrosa Spolka v Fairbairn",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Restitution \nThe contract was frustrated as it was no longer possible to perform the contract because of the supervening illegality",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496431,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 111,
+      "creatorId": 305811011,
+      "timestamp": 1675680947,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Upton RDC v Powell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Upton RDC went to put out fire at Powell's barn but found out they could be paid for doing it in another district but Powell refused to pay\n-Service committed = implied promise to pay",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496432,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 112,
+      "creatorId": 305811011,
+      "timestamp": 1675680960,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Steen v Bromley",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The caravan dwellers had no legal or equitable interest in the land itself or any part of it.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496433,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 113,
+      "creatorId": 305811011,
+      "timestamp": 1675680971,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "De Barnady v Harding",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "D, who was to view the funeral of the Duke of Wellington, appointed the plaintiff as his agent to advertise and sell tickets for the seats. The plaintiff was to be paid commission on the tickets sold by him. The plaintiff incurred some expense in advertising for the tickets but before any tickets were actually sold by him his authority to sell tickets was wrongfully revoked by the defendant. It was held that the plaintiff was entitled to recover the expenses already incurred by him under an action for quantum meruit.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496434,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 114,
+      "creatorId": 305811011,
+      "timestamp": 1675696691,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hadley v Baxendale",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "When one party breaches a contract, the other party may recover all damages that are reasonably foreseeable to both parties at the time of making the contract, as well as damages stemming from any special circumstances, provided those circumstances were communicated to and known by all parties at contract formation.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496435,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 115,
+      "creatorId": 305811011,
+      "timestamp": 1675770026,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pilkington v Wood",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A mitigating party is not expected to embark on litigation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496436,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 116,
+      "creatorId": 305811011,
+      "timestamp": 1675770175,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "De Francesco v Barnum",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Contract was so disadvantageous to dancer the court would not grant injunction or specific performance (no money or allowed paid employment anywhere else - slavery)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496437,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 117,
+      "creatorId": 305811011,
+      "timestamp": 1675770257,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dyster v Randall & Sons",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "-Court refused an order of specific performance when C, who was bankrupt, could not find the financial means to purchase a house",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496438,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 118,
+      "creatorId": 305811011,
+      "timestamp": 1675852433,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Staniforth v Lyall",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If no loss is suffered but a breach is proved, nominal damages can be awarded",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496439,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 119,
+      "creatorId": 305811011,
+      "timestamp": 1675852553,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Beswick v Beswick (remedy)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Damages must be inadequate in order for the court to order specific performance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496440,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 120,
+      "creatorId": 305811011,
+      "timestamp": 1675852592,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Page One Records v Britton",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To grant an injunction would be akin to ordering specific performance of a contract for personal services since the effect of the injunction would be to compel The Troggs to continue to employ the claimant or not work at all.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496441,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 121,
+      "creatorId": 305811011,
+      "timestamp": 1675852785,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Experience Hendrix v PPX Enterprises",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where the case is not sufficiently exceptional and there's no actual loss, the party in breach should pay a reasonable sum rather than account for all profits. (Restitutionary)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496442,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 122,
+      "creatorId": 305811011,
+      "timestamp": 1675852850,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Wrotham Park Estate v Parkside Homes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The claimant had suffered no loss but damages were awarded on the basis of the hypothetical sum the claimant could have charged to release the covenants",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496443,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 123,
+      "creatorId": 305811011,
+      "timestamp": 1675852862,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bence Graphics v Fasson",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Damages are assessed according to the difference in cost of shorter lifespan - damages for loss of bargain",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496444,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 124,
+      "creatorId": 305811011,
+      "timestamp": 1675852958,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Victoria Laundry v Newman Industries",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "C can recover from profit they could have made but for the breach - damages for future contracts",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496445,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 125,
+      "creatorId": 305811011,
+      "timestamp": 1675853032,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ruxley Electronics v Forsyth",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The plaintiffs could not sue for the whole sum of the swimming pool because it would be uneconomic to do so; they could only sue for loss of amenity (the value between the swimming pool they wanted and the one they got)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944205496446,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124102,
+      "type": 2,
+      "rank": 126,
+      "creatorId": 305811011,
+      "timestamp": 1680788515,
+      "lastModified": 1681274609,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Maritime National Fish Ltd v Ocean Trawlers Ltd)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If impossibility arises due to C's own choice, this is not frustration (steam trawler license)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

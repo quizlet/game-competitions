@@ -1,0 +1,2397 @@
+{
+  "set": {
+    "id": 792124284,
+    "timestamp": 1681274690,
+    "lastModified": 1681274693,
+    "publishedTimestamp": 1681274693,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "The Odyssey QUESTIONS AND ANSWERS",
+    "description": "",
+    "numTerms": 61,
+    "hasImages": false,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792124284/the-odyssey-questions-and-answers-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762944289341442,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What is your first impression of Odysseus? Which of his qualities do you admire?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He is heroic - hero of the Trojan War. He is loyal and wants to get back to his home.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341443,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Describe the events on Ismarus.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The men plunder the land and, carried away by greed, stay until the reinforced ranks of the Cicones turn on them and attack. Odysseus and his crew finally escape, having lost six men per ship.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341444,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What lessons can be learned from the defeat of Odysseus and his men on Ismarus.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Don't be greedy. Take what you need and leave.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341445,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Where is Odysseus' home?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ithaca",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341446,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What significant role does Ithaca play in Odysseus' epic journey.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The whole journey Odysseus is trying to get to his home in Ithaca.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341447,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How do Calypso and Circe keep Odysseus from reaching home?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They enchant him",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341448,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What are Odysseus' feelings when he is with Calypso and Circe?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He longed to be home.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341449,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What happens to the men who eat the lotus?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They forget about home and don't want to leave.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341450,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What does this episode suggest about the main problem Odysseus has with his men?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Odysseus needs to be the leader and he needs to guide them.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341451,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What do you think about the way Odysseus responds to the three men that long to stay with the Lotus Eaters?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He cared about them and he was doing his job.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341452,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What ways in the world of the Odyssey similar to today's world and in what ways is it different?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Similar - war, some evilness; differences - creatures that don't exist in our world",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341453,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Do you admire Odysseus? Why or why not?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yes, because he is determined and heroic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341454,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What do you think of Odysseus' plan for escaping from Polyphemus?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "It was a well thought out plan",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341455,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Before the meeting with the Cyclops what had Odysseus received from Maron at Ismarus?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A goatskin full of wine, seven golden talents, and a solid silver mixing bowl.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341456,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What does the Council of Maron reveal about ancient Greek attitudes about hospitality?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They treated guests very well.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341457,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How do Odysseus and his companions expect to be treated by the Cyclops?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They expect to be treated like honored strangers.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341458,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What laws of behavior and attitude does Polyphemus violate in his treatment of the Greeks?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hospitality",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341459,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How do Odysseus and his crew ultimately escape from the Cyclops?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They get him drunk, stab him in the eye, and when he is blind they hid behind the sheep and take the sheep to their ship.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341460,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Which positive and negative character traits does Odysseus demonstrate in his adventures with the Cyclops?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Positive - smart: devises a plan of escape; negative - naive, too trusting: expects Cyclops to treat him like a guest",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341461,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Whom does Odysseus encounter in the Land of the Dead?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Elpenor (his crewmate that died), Tiresias (prophet), Anticlea (his mother, died in grief)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341462,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Which character trait does Odysseus demonstrate in the Land of the Dead that he did not demonstrate earlier?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Patience",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341463,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What difficulties does Tiresias predict for the journey to come?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Poseidon is after him; must pass cattle of the Sun and not eat them (and keep his crew from eating them); get home and have fight the suitors of his wife and then leave again and make a sacrifice to Poseidon to appease him",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341464,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why does Odysseus continue despite the grim prophecies?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Because he is determined",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341465,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Based on Tiresias' prediction, which heroic qualities will Odysseus need to rely upon as he continues his journey? Explain.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Deny himself, patience, and restraining shipmates - because he will pass herds of cattle and not be able to eat them",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341466,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In which adventure in this section does Odysseus act most heroically?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Braving Scylla and Charybdis and not telling his men which path he was taking",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341467,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How do the Sirens lure travelers to their destruction?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They sing them into rapture and get them to come toward the island and their boat crashes on the rocks",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341468,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How does the danger posed by the Sirens compare to that posed by the Lotus Eaters?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Lotus Eaters just made you lazy and forgetful but the Sirens caused death",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341469,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What are Scylla and Charybdis, and why do they pose dangers for travelers?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Scylla is a six-headed monster who, when ships pass, swallows one sailor for each head. Charybdis is an enormous whirlpool that threatens to swallow the entire ship.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341470,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why does Odysseus choose to sail toward Scylla rather than Charybdis?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Charybdis will take them all and the boat also; Scylla will kill only six men",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341471,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Was Odysseus right not to tell his men about his decision to sail toward Scylla?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yes, because they would have panicked and stop rowing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341472,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What would have happened if Odysseus had told them everything?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They would have panicked",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341473,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What does Eurylochus say to persuade Odysseus' men to slaughter and eat the cattle of Helios, the sun god?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If they don't eat the cattle they will die and starvation is the worst way to die",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341474,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why is Odysseus unable to keep his men from killing cattle?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He was in a deep sleep - Odysseus believed the gods put him in the deep sleep",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341475,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If you had been in their situation, do you think you would have eaten the cattle? Why or why not?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No, because they could have gone fishing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341476,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Do the members of the crew deserve the punishment they receive for killing the cattle?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No, they didn't deserve to die, they were only hungry",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341477,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "If you were Telemachus or Penelope, how would you react to the stranger's arrival?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "I would be frightened if I did not know who it was",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341478,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Who does Telemachus think Odysseus is when they first reunite?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "At first Telemachus thought Odysseus was an old beggar and then he thinks Odysseus is a god.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341479,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Compare Odysseus' emotions with those of Telemachus at their reunion.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Odysseus is overcome with tears of joy in seeing his son, but Telemachus is afraid because he thinks he is a god or the gods are trying to trick him",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341480,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Who is Argus?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He is Odysseus' dog",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341481,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How does Argus react to Odysseus' return?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He dies",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341482,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Is it a coincidence that Argus dies just when Odysseus returns? Explain.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No, it was meant to symbolize Argus devotion to Odysseus.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341483,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Describe Antinous' treatment of Odysseus.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Antinous threw a chair at Odysseus and refused to give him food",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341484,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why do you think Antinous treats Odysseus so badly?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Because he looks down upon the poor and he is just mean",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341485,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How does Penelope feel about the suitors in her house?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "She is uncomfortable with them",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341486,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How might Odysseus' feelings about the suitors differ from Penelope's?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Odysseus wants to kill the suitors and she just feels uncomfortable",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341487,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What does Odysseus tell Penelope about himself?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "His past is too painful to believe.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341488,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why do you think Odysseus chooses not to reveal his identity to his wife?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To test her faithfulness and he needs to get rid of the suitors.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341489,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Is it wrong for Odysseus to deceive his wife? Explain.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No because he wants to make sure she has been faithful",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341490,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Do you think that Odysseus' revenge is justified? Why or Why not?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "...",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341491,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Which act begins Odysseus' revenge on the suitors?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Odysseus shot an arrow into the throat of Antinous",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341492,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 50,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why does his act catch the suitors by surprise?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "They think he is an old beggar and shot Antinous by accident",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341493,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 51,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What planning does Odysseus do before battling the suitors?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He hides weapons and armor in one of his rooms and he hides his identity",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341494,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 52,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How does planning help him defeat his opponents?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Because his opponents are defenseless",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341495,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 53,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How does the fight turn out?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He kills all of them",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341496,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 54,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Even though some suitors have been crueler than others, why does Odysseus take equal revenge on all of them?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Because all the suitors abuse the homes' hospitality",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341497,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 55,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "What is Penelope's test, and how does Odysseus pass it?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "She wants to move their bed and his response is that it is rooted to the ground so he can't move it",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341498,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 56,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Why does Penelope feel the need to test Odysseus, even though he has abandoned his disguise?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "She is not sure if he is not a god in disguise",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341499,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 57,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Is the mood after the test altogether happy? Explain.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No, Odysseus needs to regain all the belongings the suitors took from him. The suitors' parents are after him too.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341500,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 58,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Are Odysseus' actions in dealing with the suitors consistent with his actions in earlier episodes of the epic? Explain.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "No, he chose to flee rather than kill in earlier parts of the epic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341501,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 59,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Do you consider him heroic?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yes, because he was determined and never gave up",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944289341502,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124284,
+      "type": 2,
+      "rank": 60,
+      "creatorId": 305811011,
+      "timestamp": 1444359525,
+      "lastModified": 1681274690,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How do you think the problem of the suitors should have been handled? Why?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "He should have killed them all because they deserved it",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

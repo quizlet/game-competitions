@@ -1,0 +1,77 @@
+{
+  /*
+   * Files
+   */
+  "files.exclude": {
+    "**/.babel-loader-cache": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.next": true,
+    "reports": true
+  },
+  // Exclude these from search, even though they are gitignored
+  // https://github.com/microsoft/vscode/issues/26574#issuecomment-819403008
+  "search.exclude": {
+    "**/dist": true,
+    "**/.next": true,
+    "**/node_modules": true
+  },
+
+  /*
+   * All languages
+   */
+  "editor.formatOnSave": true,
+  // Disabling autosave because it interferes with our extensions that run on save. It also causes tests to run too frequently when in watch mode.
+  "files.autoSave": "off",
+
+  /*
+   * Javascript / TypeScript
+   */
+
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+
+  "typescript.validate.enable": true,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.preferences.quoteStyle": "single",
+
+  // Ensure Jest plugin is using the same config defined in package.json
+  "jest.pathToJest": "yarn test:js",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false // We use prettier-plugin-organize-imports
+    }
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false // We use prettier-plugin-organize-imports
+    }
+  },
+
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.run": "onSave",
+  "eslint.useESLintClass": true
+}

@@ -1,0 +1,524 @@
+{
+  "set": {
+    "id": 792131145,
+    "timestamp": 1681278146,
+    "lastModified": 1681278149,
+    "publishedTimestamp": 1681278149,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Game development",
+    "description": "",
+    "numTerms": 11,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792131145/game-development-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762947913285632,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1552471755,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Objects",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "are game elements added to each level for the player to view and interact with",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ANhqby5yuQYDdsYg",
+              "url": "https://o.quizlet.com/VFI0EwkNTbq-XqgO9RhXJg_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285633,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1552471803,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Physics",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "properties determine how the object will move and react to forces or collisions when the game runs",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "A2B5H65yzp3NmYjJ",
+              "url": "https://o.quizlet.com/e0sRQuwQdKkWLAGUcrlJTg_m.png",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285634,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1552471913,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Collision",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an instance of one moving object striking against another",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "xjyvKK8utAhfcsQ5",
+              "url": "https://o.quizlet.com/ZZl0pEH.bfpBXXa7sg88OA_m.jpg",
+              "width": 282,
+              "height": 179
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285635,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1552471995,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sprite",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an image associated with an object type",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4EKdnEFWxc97PBB5",
+              "url": "https://o.quizlet.com/phJChvFZN5PWdbhwIetvFA_m.png",
+              "width": 95,
+              "height": 111
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285636,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1552472076,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Behaviours",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "are how logic and game mechanics are built in game development",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "mAmqMVqUdYghKanU",
+              "url": "https://o.quizlet.com/U8wy98rPtOUSr5H.uHTT8Q_m.png",
+              "width": 322,
+              "height": 156
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285637,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1553036163,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Layers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "are where objects can live in the game world.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4ZbVhXV8CjAgpfCs",
+              "url": "https://o.quizlet.com/4ZcT5ohrfaTLWGugH2C0-g_m.jpg",
+              "width": 351,
+              "height": 144
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285638,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1552472304,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Each game layer has its own",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "object library",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2cHqDDpTnbvYx8Cw",
+              "url": "https://o.quizlet.com/.ifb00Uem.xrkwnJwQjVcg_m.jpg",
+              "width": 1152,
+              "height": 599
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285639,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1552472331,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Object library",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "contains only the objects created in a given layer.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2cHqDDpTnbvYx8Cw",
+              "url": "https://o.quizlet.com/.ifb00Uem.xrkwnJwQjVcg_m.jpg",
+              "width": 1152,
+              "height": 599
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285640,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1552472465,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Levels",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "one or more sections of a game a player will progress through them as they advance",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "XXWGZ5Ft7PtH2D7q",
+              "url": "https://o.quizlet.com/o.6ODqKQSF3I7MpeWT0R1w_m.jpg",
+              "width": 336,
+              "height": 150
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285641,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1553035848,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Game logic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "is built by assembling simple behaviour blocks, which can be linked together to operate similarly to an electric circuit",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kN8BjWnmU5M7u3vG",
+              "url": "https://o.quizlet.com/Q4CrttYNH54aCfqU-coFzA_m.jpg",
+              "width": 321,
+              "height": 157
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947913285642,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792131145,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1552472606,
+      "lastModified": 1681278146,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Behaviors are activated by",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "reacting to events that occur while the game is running",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "SFbvh5C3NZRGM6a6",
+              "url": "https://o.quizlet.com/zDz6jlnc9zOxgTHkuvEbOg_m.png",
+              "width": 330,
+              "height": 153
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

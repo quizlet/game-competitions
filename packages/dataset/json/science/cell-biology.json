@@ -1,0 +1,868 @@
+{
+  "set": {
+    "id": 792119666,
+    "timestamp": 1681272626,
+    "lastModified": 1681272629,
+    "publishedTimestamp": 1681272629,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Cell Biology",
+    "description": "",
+    "numTerms": 20,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792119666/cell-biology-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762942125125632,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The basic unit of life. All organisms are made from it.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YyCBgnCnqxnxVVwS",
+              "url": "https://o.quizlet.com/i/6IY9iJTPUxnKewftiKuzzA_m.jpg",
+              "width": 240,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125633,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cell Membrane",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A semipermeable \"skin\" surrounding the cell and separating it from its environment.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "a89qNZu7A6vrJ2Jm",
+              "url": "https://o.quizlet.com/DWduQwLWWZzDOqw9L3cQFA_m.jpg",
+              "width": 400,
+              "height": 265
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125634,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cell Wall",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A semi-rigid structure that surrounds plant cells.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HnS8UN97NAbrfXM3",
+              "url": "https://o.quizlet.com/i/pyf83n7yUbHz-mlXwb3VLg_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125635,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cytoplasm",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The fluid portion of a cell's interior. The cells organelles are suspended in it.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "xZV3qZmue7zpZn8M",
+              "url": "https://o.quizlet.com/i/8lkiIwerESQqjjpnOXGvfQ_m.jpg",
+              "width": 240,
+              "height": 202
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125636,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Eukaryotic Cell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cells that contain a nucleus and organelles. Most living cells except for bacteria are like this.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "P6HsxkFvs5au9SKj",
+              "url": "https://o.quizlet.com/i/cM656lDpRokYZEmRiXRP6Q_m.jpg",
+              "width": 500,
+              "height": 383
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125637,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Prokaryotic Cell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A primitive kind of cell containing no nucleus nor organelles. All bacteria have these types of cells.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "vsbPhkgSZCYnegER",
+              "url": "https://o.quizlet.com/8atcyccgWhP5tlXiBewirw_m.jpg",
+              "width": 400,
+              "height": 265
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125638,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1488777658,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Nucleus",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This cell organelle contains DNA and controls the cell.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "PXBwpm6MXbZzaWVN",
+              "url": "https://o.quizlet.com/i/4_khawntUaAPBV-MmD0j3w_m.jpg",
+              "width": 159,
+              "height": 171
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125639,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1488777685,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mitochondrion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A cell organelle that processes sugar and oxygen, providing energy in the form of ATP for the cell.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qM4Ymw2YP2NhMNSa",
+              "url": "https://o.quizlet.com/i/XkdxPuC9tF7rfJuKCehbDQ_m.jpg",
+              "width": 240,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125640,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1488777592,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Organelle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Structure inside eukaryotic cells that performs special functions.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YVPpaTjEXE3zefWa",
+              "url": "https://o.quizlet.com/i/jEm_ShnqFR_iu2UnbRmL6g_m.jpg",
+              "width": 240,
+              "height": 161
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125641,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1488777686,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Vacuole",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A fluid-filled membrane in the cytoplasm of plant cells, fungus cells, protist cells and most animal cells.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "tdrns3Z68yEwm5SG",
+              "url": "https://o.quizlet.com/i/L-dMtfzSGUb09lsoZTGbaA_m.jpg",
+              "width": 151,
+              "height": 167
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125642,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1488777734,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lysosome",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A package that contains enzymes to break wastes down.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125643,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1488777758,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Endoplasmic Reticulum",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A transport system for the cell.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125644,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1488777777,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Golgi Body",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This organelle processes and packages proteins.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125645,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1488777817,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cytoskeleton",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This organelle is a series of tubules that provide structure to the cell and allow it to move.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125646,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1488777876,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chloroplast",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This organelle is only found in plant cells and is the site of photosynthesis where light energy, carbon dioxide and water are used to create glucose.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125647,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1488777926,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Diffusion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The passive process where a substance moves from an area of high concentration to an area of low concentration.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125648,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1488777994,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Simple Diffusion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The passive process where a small molecule moves directly through the cell membrane.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125649,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1488777994,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Facilitated Diffusion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The passive process where a molecule passes through the cell membrane with the aide of a protein channel.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125650,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1488778048,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Active Transport",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The active process where a molecule moves across a cell membrane from an area of low concentration to an area of high concentration.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942125125651,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119666,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1488778110,
+      "lastModified": 1681272626,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Osmosis",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The diffusion of water molecules from an area of high concentration of water molecules to an area of low concentration of water molecules.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

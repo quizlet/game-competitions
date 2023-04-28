@@ -1,0 +1,28 @@
+.UIMarkdown {
+  width: 95%;
+  max-width: 1024px;
+  margin: 0 auto;
+  background-color: #F6F7FB; 
+  padding: 12px;
+  border-radius: 12px;
+  color: #1A1D28;
+  position: relative;
+}
+
+.UIMarkdown-inlineCode {
+  color: #1F1C8B;
+}
+
+.UIMarkdown-blockquote {
+  margin: 0 0 8px 8px;
+  border-left: 4px solid rgb(1, 22, 39);
+  padding: 0.8rem 1rem;
+
+  p {
+    margin: 0;
+  }
+}
+
+.UIMarkdown-image {
+  max-width: 100%;
+}

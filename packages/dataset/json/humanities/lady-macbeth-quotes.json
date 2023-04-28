@@ -1,0 +1,759 @@
+{
+  "set": {
+    "id": 792124241,
+    "timestamp": 1681274669,
+    "lastModified": 1681274672,
+    "publishedTimestamp": 1681274672,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Lady Macbeth Quotes",
+    "description": "",
+    "numTerms": 19,
+    "hasImages": false,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792124241/lady-macbeth-quotes-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762944267341826,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Too full o'the milk of human kindness\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Macbeth cannot do the deed, he is too innocent",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341827,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Unsex me here\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A man should do these things",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341828,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Leave all the rest to me\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Wearing the trousers, in control",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341829,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Look like th'innocent flower but be the serpent under't\"\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Act innocent, be guilty",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341830,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Coward\" \"Art thou afeard?\" \"We Fail\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cop on Macbeth!",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341831,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Had he not resembled my father\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Soft side?",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341832,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Make us mad\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cannot dwell on the deed",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341833,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"A little water clears us of this deed\" \"How easy it is\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "We're not guilty",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341834,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Nought's had, all's spent\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "We have achieved nothing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341835,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"What's done is done\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "We can't take it back",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341836,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1401366808,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"You must leave this\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "We've done enough",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341837,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Are you a man?\" \"Unmanned in folly\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Questioning manhood again",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341838,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Air drawn dagger\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Banquet visions",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341839,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Out damned spot - out I say\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Blood Vision",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341840,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Enough o'that my lord\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Time to stop",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341841,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"Who'd have thought the old man to have so much blood in him\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Duncan",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341842,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"All the perfumes of Arabia\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Get the smell out",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341843,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"What's done, cannot be undone\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "We can't fix it",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944267341844,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124241,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1401367134,
+      "lastModified": 1681274669,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\"To bed, to bed\"",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Forget this",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

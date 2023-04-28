@@ -1,0 +1,502 @@
+{
+  "set": {
+    "id": 649038446,
+    "timestamp": 1638823541,
+    "lastModified": 1651728547,
+    "publishedTimestamp": 1651728547,
+    "wordLang": "en",
+    "defLang": "ja",
+    "title": "Studio Ghibli Movie Trivia",
+    "description": "",
+    "numTerms": 11,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/649038446/studio-ghibli-movie-trivia-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1731962079330306,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 3795750,
+      "timestamp": 1651727752,
+      "lastModified": 1651727752,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195886237990918,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Spirited Away",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195886237990919,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Ph4txVJuN4P6ugkX",
+              "url": "https://o.quizlet.com/JdyPEzlsoyapxkocnJ2iiA_m.jpg",
+              "width": 1000,
+              "height": 701
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962175782913,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 3795750,
+      "timestamp": 1651727844,
+      "lastModified": 1651727844,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195886527348739,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "My Neighbor Totoro",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195886527348740,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Bb3EJNMEXkGqkybe",
+              "url": "https://o.quizlet.com/MmhkOvkD.GvSuM0-UOtcCg_m.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962226110464,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 3795750,
+      "timestamp": 1651727892,
+      "lastModified": 1651727892,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195886678331392,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Howl's Moving Castle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195886678331393,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TrfDRgCAgjwHugdp",
+              "url": "https://o.quizlet.com/SGgO2YDyWqrHJ8Pvm.CCzg_m.jpg",
+              "width": 750,
+              "height": 405
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962270162944,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 3795750,
+      "timestamp": 1651727934,
+      "lastModified": 1651727934,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195886810488832,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Kiki's Delivery Service",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195886810488833,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u9b54\u5973\u306e\u5b85\u6025\u4fbf",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cxWDFYxnDvWumGsa",
+              "url": "https://o.quizlet.com/elBPulJxIEXJW.RKxLGFkQ_m.jpg",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962359291908,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 3795750,
+      "timestamp": 1651728019,
+      "lastModified": 1651728019,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195887077875724,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Princess Mononoke",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195887077875725,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3082\u306e\u306e\u3051\u3072\u3081",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "uNN7ASH4PdE2Egkx",
+              "url": "https://o.quizlet.com/q0DS8sjnXbNGI4hJG6bUpQ_m.jpg",
+              "width": 162,
+              "height": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962380238848,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 3795750,
+      "timestamp": 1651728039,
+      "lastModified": 1651728039,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195887140716544,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ponyo",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195887140716545,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30dd\u30cb\u30e7",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "mtG5JXbCsSUHRAWS",
+              "url": "https://o.quizlet.com/SNXRTpyLAQuSjPF7m9R.7Q_m.jpg",
+              "width": 1280,
+              "height": 688
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962399113220,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 3795750,
+      "timestamp": 1651728057,
+      "lastModified": 1651728057,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195887197339660,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Castle in the Sky",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195887197339661,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u5929\u7a7a\u306e\u57ce\u30e9\u30d4\u30e5\u30bf",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zXpcpG7kwHGbby3e",
+              "url": "https://o.quizlet.com/5tzPbL.q8Z56WxpuSsdO3w_m.jpg",
+              "width": 544,
+              "height": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962428493825,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 3795750,
+      "timestamp": 1651728085,
+      "lastModified": 1651728085,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195887285481475,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Nausicaa of the Valley of the Wind",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195887285481476,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bE8Wjkcd2EjgMmdF",
+              "url": "https://o.quizlet.com/sdpLJ.iLVn5Resv3dsoWGw_m.jpg",
+              "width": 800,
+              "height": 533
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962473553920,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 3795750,
+      "timestamp": 1651728128,
+      "lastModified": 1651728128,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195887420661760,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Wind Rises",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195887420661761,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u98a8\u7acb\u3061\u306c",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "njQRE7QYta89Q9Qz",
+              "url": "https://o.quizlet.com/5TMokQf38mrGgmO0NrsJtQ_m.jpg",
+              "width": 305,
+              "height": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962672791552,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 3795750,
+      "timestamp": 1651728318,
+      "lastModified": 1651728318,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195888018374656,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "From Up on Poppy Hill",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195888018374657,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "pMvPDkM8qtrc8gbV",
+              "url": "https://o.quizlet.com/tInTBCYAqdpMobSSsevqlQ_m.jpg",
+              "width": 1920,
+              "height": 1038
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1731962791280640,
+      "studiableContainerType": 1,
+      "studiableContainerId": 649038446,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 3795750,
+      "timestamp": 1651728431,
+      "lastModified": 1651728431,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 5195888373841920,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Porco Rosso",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 5195888373841921,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7d05\u306e\u8c5a",
+              "languageCode": "ja",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wuvStqN9AkPR9jU9",
+              "url": "https://o.quizlet.com/S-dAPN05sNXxqYQ6fbvAyw_m.jpg",
+              "width": 1920,
+              "height": 1142
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

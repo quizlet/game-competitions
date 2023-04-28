@@ -1,0 +1,2962 @@
+{
+  "set": {
+    "id": 792116913,
+    "timestamp": 1681271526,
+    "lastModified": 1681271536,
+    "publishedTimestamp": 1681271536,
+    "wordLang": "fr",
+    "defLang": "en",
+    "title": "French Food, French Food Vocabulary",
+    "description": "",
+    "numTerms": 64,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792116913/french-food-french-food-vocabulary-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762940971667457,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le thé",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tea",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "mKhRrdqgykEExByE",
+              "url": "https://o.quizlet.com/.u3cPeU2rVNpBGkIxwKD5g_m.jpg",
+              "width": 250,
+              "height": 300
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667458,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le café",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "coffee",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "epTnAedC5AxDy495",
+              "url": "https://farm1.staticflickr.com/89/274197870_cb420603a2_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667459,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "l'eau (f.)",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "water",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "B6pYze9hYP9nFZJW",
+              "url": "https://farm1.staticflickr.com/196/484776493_411825502f_m.jpg",
+              "width": 512,
+              "height": 384
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667460,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1550181970,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le jus de [fruit]",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "[fruit] juice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Bcu2rQ2hfp8bcFkf",
+              "url": "https://o.quizlet.com/hIgJMcya5NzepntI1v8k6Q_m.jpg",
+              "width": 500,
+              "height": 382
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667461,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la tomate",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tomato",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4uB9mbG9GEbNCUUy",
+              "url": "https://farm4.staticflickr.com/3135/2742433355_769b2a4363_m.jpg",
+              "width": 500,
+              "height": 359
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667462,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la pomme de terre",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "potato",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QYYhHW479V4cjS4z",
+              "url": "https://o.quizlet.com/GxZLSiG6suKUjg.jNp1cZw_m.jpg",
+              "width": 275,
+              "height": 183
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667463,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "l'oignon",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "onion",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "7q543U94JfQKWJvQ",
+              "url": "https://farm1.staticflickr.com/82/247703955_d5e411a723_m.jpg",
+              "width": 500,
+              "height": 331
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667464,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les oeufs",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "eggs",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2WGDM7Z9Mw5UHHw6",
+              "url": "https://farm1.staticflickr.com/177/375283173_1b3addb194_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667465,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le lait",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "milk",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FJnBfZ8FBAavUJYy",
+              "url": "https://farm1.staticflickr.com/227/513371114_f048acf9c3_m.jpg",
+              "width": 375,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667466,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la glace",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ice cream",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YbKY4jWPDeP8nJp4",
+              "url": "https://farm2.staticflickr.com/1037/1401832787_b850f8431e_m.jpg",
+              "width": 248,
+              "height": 168
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667467,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la pomme",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "apple",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4fVXvv6cyxSXq3vq",
+              "url": "https://o.quizlet.com/i/bnTW_NltPscF5PxsnvfZuQ_m.jpg",
+              "width": 512,
+              "height": 492
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667468,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la banane",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "banana",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "WWauPHMpSqFtzZrs",
+              "url": "https://farm1.staticflickr.com/10/15288615_8a5421cd9f_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667469,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "l'orange",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "orange",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NWfsUBcwMNcmX38F",
+              "url": "https://farm1.staticflickr.com/50/131215442_dd7cf7a9f0_m.jpg",
+              "width": 240,
+              "height": 178
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667470,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le raisin",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "grape",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yXC5ZwEq8qvG3kTu",
+              "url": "https://o.quizlet.com/m0kQSXQMmmFe3UlwiHxCeg_m.jpg",
+              "width": 360,
+              "height": 300
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667471,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "l'ananas",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pineapple",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2EUraagW2JBnqAPG",
+              "url": "https://o.quizlet.com/i/ga7KpTZ8RfxM8gmpeyaS7A_m.jpg",
+              "width": 512,
+              "height": 894
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667472,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le poulet",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chicken",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "AshfPyR4H6NrE6Kg",
+              "url": "https://farm4.staticflickr.com/3599/3567534343_236aed0724_m.jpg",
+              "width": 248,
+              "height": 159
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667473,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le jambon",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ham",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Y4dymVMZuqzzdKTy",
+              "url": "https://o.quizlet.com/i/k2cRHI9MNzyVkgf0Y3Y9nQ_m.jpg",
+              "width": 240,
+              "height": 226
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667474,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le pain",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bread",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eUwjyfDfqTtAGqdT",
+              "url": "https://farm3.staticflickr.com/2560/4125841135_a81a183839_m.jpg",
+              "width": 500,
+              "height": 332
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667475,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le croissant",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "croissant",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fT7hzpKeSjdK5njb",
+              "url": "https://farm4.staticflickr.com/3076/2764136630_4347404526_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667476,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le poisson",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fish",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ThdtD8GrdNUzwKEw",
+              "url": "https://farm3.staticflickr.com/2191/2189443833_cfb18b48cc_m.jpg",
+              "width": 248,
+              "height": 188
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667477,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les escargots",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "snails",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NbC4SQZW8mWjhX3Y",
+              "url": "https://o.quizlet.com/pUC--1W1S4C8OH.fAyWrgw_m.jpg",
+              "width": 350,
+              "height": 263
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667478,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le gâteau",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cake",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZsJzQas4qGQSMxTB",
+              "url": "https://farm2.staticflickr.com/1053/5117624772_158d8449a8_m.jpg",
+              "width": 500,
+              "height": 335
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667479,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la tarte",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pie",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gWAuguVtxgwpFuNs",
+              "url": "https://farm4.staticflickr.com/3570/3570189573_2e4f5e4a91_m.jpg",
+              "width": 500,
+              "height": 381
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667480,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1556035209,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cookie",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le biscuit",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "nFsXEVCcjtPQQMUa",
+              "url": "https://o.quizlet.com/7JslNN-EVrQjtRx7geCpjw_m.png",
+              "width": 115,
+              "height": 84
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667481,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le fromage",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cheese",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "z9WYeWfx5A8rTTRV",
+              "url": "https://o.quizlet.com/4CNRJtqtQ3V1UF20exgjHg_m.png",
+              "width": 284,
+              "height": 177
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667482,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1550181970,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la crêpe",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "crepe",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bJZ6Hb9hxsr4E6uC",
+              "url": "https://o.quizlet.com/JQBh3kSFkq2xbmY2kj9yXA_m.jpg",
+              "width": 590,
+              "height": 305
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667483,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1550181987,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le poivron [vert]",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "[green] bell pepper",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TnFk7mK2ywFQh6ur",
+              "url": "https://o.quizlet.com/i/QP4_HQJHgGxLP45tz8lpJg_m.jpg",
+              "width": 512,
+              "height": 512
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667484,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le champignon",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mushroom",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kHU3shzK7xN539QN",
+              "url": "https://o.quizlet.com/EEcUn6TkkcFN9ZkTjnWXtQ_m.jpg",
+              "width": 257,
+              "height": 196
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667485,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les haricots verts",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "green beans",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DXdvMPawKxnDnbTy",
+              "url": "https://o.quizlet.com/i/OerJZJYvZJ7MVlh5Z8rTCA_m.jpg",
+              "width": 240,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667486,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la confiture",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "jam",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cTNwAzzXQ28NyynK",
+              "url": "https://o.quizlet.com/8TFu7QH6-3mu0XJdKPBhXQ_m.jpg",
+              "width": 380,
+              "height": 300
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667487,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1550182003,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les frites, les pommes frites",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "french fries",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sVbpjgPyYy79pQXE",
+              "url": "https://o.quizlet.com/pKOAhd98i1i5aa1cxdNlNg_m.jpg",
+              "width": 294,
+              "height": 171
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667488,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la pêche",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "peach",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4BQmJN8UjNwh8mbf",
+              "url": "https://o.quizlet.com/i/OwoYmnrHa8dh6Y_74jeolQ_m.jpg",
+              "width": 512,
+              "height": 505
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667489,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la poire",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pear",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Jq8JnKfb7kqGXMFP",
+              "url": "https://o.quizlet.com/i/ohzNKkqOKbM9DgLuH0pBlg_m.jpg",
+              "width": 512,
+              "height": 701
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667490,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les céréales",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cereal",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "VXqVqWKHx2MaNZMs",
+              "url": "https://o.quizlet.com/IhMBvLRuJEVWGA9LR0kt7g_m.jpg",
+              "width": 281,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667491,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le riz",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "csMtyFJtuNTrMP7n",
+              "url": "https://farm1.staticflickr.com/1/374797_4d0272f14f_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667492,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les fruits",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fruits",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "927Xfcnj9e79xFvk",
+              "url": "https://o.quizlet.com/1IlPlKq1zfIrvAu8OY7IxA_m.jpg",
+              "width": 1024,
+              "height": 891
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667493,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la dinde",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "turkey",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Qrpc8bfXFTwXjPS5",
+              "url": "https://farm4.staticflickr.com/3141/2441818832_aa89a2ffa2_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667494,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la saucisse",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sausage",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GvQYr88GrXkzKSDm",
+              "url": "https://farm6.staticflickr.com/5244/5313699580_44506018a1_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667495,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le fromage",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cheese",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "z9WYeWfx5A8rTTRV",
+              "url": "https://o.quizlet.com/4CNRJtqtQ3V1UF20exgjHg_m.png",
+              "width": 284,
+              "height": 177
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667496,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les légumes",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "vegetables",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "82aQCeq83GqFSBx4",
+              "url": "https://o.quizlet.com/Av8ZqTNe0V9scIKhZQ1lGQ_m.jpg",
+              "width": 400,
+              "height": 264
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667497,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le concombre",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cucumber",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bTXU2AJTb6FuZCqn",
+              "url": "https://o.quizlet.com/mQI29C7HdzIOs8EJnSqq7A_m.jpg",
+              "width": 131,
+              "height": 89
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667498,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1550181909,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les raisins",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "grapes",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "BcNbZ2hgcGFQA4mb",
+              "url": "https://farm2.staticflickr.com/1259/923930277_3ee185ea40_m.jpg",
+              "width": 316,
+              "height": 480
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667499,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1550182017,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la salade",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lettuce",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NVjxqT3atbKhF6rr",
+              "url": "https://farm3.staticflickr.com/2488/3856064468_c42f4132f3_m.jpg",
+              "width": 500,
+              "height": 327
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667500,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1550182017,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les fraises",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "strawberries",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kjuu4pRagP3bpKnq",
+              "url": "https://farm9.staticflickr.com/8149/6984507532_2249b0f525_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667501,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1550182017,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le céleri",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "celery",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DpcjwEnQzDj7cJaE",
+              "url": "https://o.quizlet.com/i/7h4dIPIuX0fC9E5MTzccMQ_m.jpg",
+              "width": 512,
+              "height": 787
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667502,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1550182075,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le pamplemousse",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "grapefruit",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "BanJ6U6REqMdYP4a",
+              "url": "https://farm6.staticflickr.com/5259/5456511612_0b359a7dbf_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667503,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 1550182075,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le maïs",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "corn",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "7KNE65zg2U5rTybd",
+              "url": "https://farm3.staticflickr.com/2546/3898162422_5f36eb52bb_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667504,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 1550182079,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le bacon",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bacon",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fyQGV2WyCfTQQMNy",
+              "url": "https://farm7.staticflickr.com/6158/6175755733_b2932d7838_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667505,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 1550182083,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le sucre",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sugar",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "uPQ8EVbvCnmDJx4T",
+              "url": "https://o.quizlet.com/WbQhpialZR7OXXubydoSVw_m.jpg",
+              "width": 276,
+              "height": 183
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667506,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 1550182083,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le poivre",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pepper",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "EbnrknaHMnEZ2VXv",
+              "url": "https://o.quizlet.com/mmsFNiNrOEFXaUmI3FdPtg_m.jpg",
+              "width": 275,
+              "height": 275
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667507,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 50,
+      "creatorId": 305811011,
+      "timestamp": 1550182083,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le ketchup",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ketchup",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Bcbj33cptZRQ6PhX",
+              "url": "https://o.quizlet.com/xQIRaQJO3nwwyehUafVO9A_m.jpg",
+              "width": 249,
+              "height": 187
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667508,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 51,
+      "creatorId": 305811011,
+      "timestamp": 1550182083,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la moutarde",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mustard",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Nya2QfCVvZKmMPP4",
+              "url": "https://farm3.staticflickr.com/2280/2245927972_fb28b00e2f_m.jpg",
+              "width": 512,
+              "height": 682
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667509,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 52,
+      "creatorId": 305811011,
+      "timestamp": 1550182098,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le sel",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "salt",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QtqGRzsmgawVb3aE",
+              "url": "https://o.quizlet.com/93RgZp6DEjDgaSfAWPz7pw_m.jpg",
+              "width": 500,
+              "height": 441
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667510,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 53,
+      "creatorId": 305811011,
+      "timestamp": 1550182107,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la fraimboise",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "raspberry",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "R8QAhSdXcZUjjKAf",
+              "url": "https://farm3.staticflickr.com/2615/3690890800_d21fc6053a_m.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667511,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 54,
+      "creatorId": 305811011,
+      "timestamp": 1550182107,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le dessert",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dessert",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MbuPzDGWbYfDazKf",
+              "url": "https://farm3.staticflickr.com/2271/2589205355_c60e2242f7_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667512,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 55,
+      "creatorId": 305811011,
+      "timestamp": 1550182126,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le beurre",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "butter",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Zu7tE8pwwrNH62eg",
+              "url": "https://o.quizlet.com/ZDXGlCix6ErsnSZ5cZDB3Q_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667513,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 56,
+      "creatorId": 305811011,
+      "timestamp": 1550182128,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le yaourt",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "yogurt",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "S6vPUCjJvMcVtaYB",
+              "url": "https://farm5.staticflickr.com/4050/4506603007_7a11182302_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667514,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 57,
+      "creatorId": 305811011,
+      "timestamp": 1550182132,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les pâtes",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pasta",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hQpGNBfwkmkErVPA",
+              "url": "https://o.quizlet.com/wvZtiwtJ3VKfqPMYOf.5DA_m.jpg",
+              "width": 565,
+              "height": 376
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667515,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 58,
+      "creatorId": 305811011,
+      "timestamp": 1550182132,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les chips",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chips",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "f3VRAhHT65hyQuGJ",
+              "url": "https://farm1.staticflickr.com/137/394977779_8d2831c11e_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667516,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 59,
+      "creatorId": 305811011,
+      "timestamp": 1550182132,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les patisseries",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pastries",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "99Dg2aaypJH7vPHj",
+              "url": "https://o.quizlet.com/4odxrEmrME6NJNpQ14qi9w_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667517,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 60,
+      "creatorId": 305811011,
+      "timestamp": 1550182132,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les gaufres",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "waffles",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wcYAntNuJKj7C9qP",
+              "url": "https://o.quizlet.com/pYbTjNY54Y5l.pGRemw.UA_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667518,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 61,
+      "creatorId": 305811011,
+      "timestamp": 1550182132,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la viande",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "meat",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yX3FcsJ955mZBJfK",
+              "url": "https://farm4.staticflickr.com/3196/2914717484_97cbca61cb_m.jpg",
+              "width": 331,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667519,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 62,
+      "creatorId": 305811011,
+      "timestamp": 1550182263,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "les légumes",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "vegetables (m)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Puq7PEYd7Cwwpjmn",
+              "url": "https://farm4.staticflickr.com/3256/2488644619_481cbcce65_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940971667520,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116913,
+      "type": 2,
+      "rank": 63,
+      "creatorId": 305811011,
+      "timestamp": 1550182314,
+      "lastModified": 1681271526,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "le homard",
+              "languageCode": "fr",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lobster",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NnNkddw8wR4cV39F",
+              "url": "https://o.quizlet.com/hAy9c4Q1jnPkubO9GHPkdg_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

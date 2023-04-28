@@ -1,0 +1,1858 @@
+{
+  "set": {
+    "id": 792116778,
+    "timestamp": 1681271482,
+    "lastModified": 1681271494,
+    "publishedTimestamp": 1681271494,
+    "wordLang": "es",
+    "defLang": "en",
+    "title": "Spanish food",
+    "description": "Spanish vocabulary words combining Food-General, Food-Fruit, Food-Veggie, and Food-Meat",
+    "numTerms": 40,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792116778/spanish-food-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762940925579266,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1515834969,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085404,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la manzana",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085405,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "apple",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MCf3WgbM3pPHBPbj",
+              "url": "https://farm3.staticflickr.com/2445/3792771452_780720c1f3_m.jpg",
+              "width": 512,
+              "height": 384
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579267,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1515834969,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085407,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la naranja",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085408,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "orange",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YxpMSfuktd3DUaw5",
+              "url": "https://farm4.staticflickr.com/3395/3445774251_87b63ac829_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579268,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1515834969,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085410,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el plátano",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085411,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "banana",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6UeRyMAXVqwc6jbR",
+              "url": "https://o.quizlet.com/i/t-Ip7Pjn8c-TNXX3lIi-Fg_m.jpg",
+              "width": 512,
+              "height": 392
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579269,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1515834969,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085416,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la ensalada",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085417,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "salad",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "jJyFKmqVXRSEYKQ3",
+              "url": "https://farm4.staticflickr.com/3555/3428820022_a4f3a02432_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579270,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1481356768,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085419,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las fresas",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085420,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "strawberries",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "B4HEqyVBpcSN8dPu",
+              "url": "https://farm4.staticflickr.com/3019/2580344111_c467711ec3_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579271,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1515835012,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085422,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el zumo (de naranja)",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085423,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "(orange) juice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "T5GhQuQYJdSSXhzk",
+              "url": "https://o.quizlet.com/.RQj6e1opLGTfPhOHsUYnA_m.jpg",
+              "width": 275,
+              "height": 183
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579272,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1481356833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085431,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las bebidas",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085432,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "drinks",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "RJMrbxFTB74evxV4",
+              "url": "https://farm1.staticflickr.com/210/516923509_9e259ffe57_m.jpg",
+              "width": 640,
+              "height": 480
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579273,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1481356768,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085434,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las frutas",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085435,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fruits",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6Vuuvs5NKtT85Vmz",
+              "url": "https://farm4.staticflickr.com/3436/3780058079_40ec9cc20f_m.jpg",
+              "width": 280,
+              "height": 125
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579274,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1481357804,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085443,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las patatas",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085444,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "potatoes",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KsMSUxcpKYPSzxsj",
+              "url": "https://farm3.staticflickr.com/2552/3762764923_59d1eb3c26_m.jpg",
+              "width": 226,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579276,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1481356768,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085452,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las uvas",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085453,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "grapes",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8S5H3hgECFmZNM7C",
+              "url": "https://o.quizlet.com/i/DS4QPLGl-z7mgotWwLK25w_m.jpg",
+              "width": 512,
+              "height": 443
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579277,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085461,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "las judías verdes",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085462,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "green beans",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CdvJGfwmrsJkWutm",
+              "url": "https://o.quizlet.com/i/bbJHKROHmDUykdyeGx0CqQ_m.jpg",
+              "width": 512,
+              "height": 392
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579278,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085464,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el tomate",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085465,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tomato",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CMR52GrkjmpN52FS",
+              "url": "https://farm3.staticflickr.com/2390/2101122091_60cc02d0fe_m.jpg",
+              "width": 500,
+              "height": 337
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579279,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085473,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la lechuga",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085474,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lettuce",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NVjxqT3atbKhF6rr",
+              "url": "https://farm3.staticflickr.com/2488/3856064468_c42f4132f3_m.jpg",
+              "width": 500,
+              "height": 327
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579280,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085479,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la carne",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085480,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "meat",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HXSSeEynbywe7Hk2",
+              "url": "https://farm2.staticflickr.com/1054/5104730933_5ef3b5ed9b_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579281,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085485,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el limón",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085486,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lemon",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "EBbfxPjAa9m9mFAb",
+              "url": "https://farm4.staticflickr.com/3020/2320317033_217ac64dda_m.jpg",
+              "width": 512,
+              "height": 384
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579282,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085488,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la lima",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085489,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lime",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "p9EMppRtG9dPg4XK",
+              "url": "https://farm1.staticflickr.com/114/297466626_22b9e7444d_m.jpg",
+              "width": 500,
+              "height": 369
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579283,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1481357833,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085497,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la cebolla",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085498,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "onion",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Kh3QDYFnbc494hmN",
+              "url": "https://farm3.staticflickr.com/2263/1842820851_98e9a56047_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579284,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1481357868,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085503,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el jamón",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085504,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ham",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4uhT2PppAsMSpVR9",
+              "url": "https://farm5.staticflickr.com/4119/4873400550_c1fa7f5172_m.jpg",
+              "width": 500,
+              "height": 332
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579285,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1481357868,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085509,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "los huevos",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085510,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "eggs",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ebnBrStR8sEppRvE",
+              "url": "https://farm4.staticflickr.com/3189/2607036664_da729b4bd5_m.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579286,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1481357868,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085512,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el queso",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085513,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cheese",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kMdSbmzXXwCXKBNN",
+              "url": "https://farm4.staticflickr.com/3304/4592672690_accbf6ae4d_m.jpg",
+              "width": 512,
+              "height": 341
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579287,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085527,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la limonada",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085528,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lemonade",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "pksnquEzertmU2qP",
+              "url": "https://o.quizlet.com/i/YXd0H86YL_0DAddYmykZqQ_m.jpg",
+              "width": 240,
+              "height": 160
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579288,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085536,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la leche",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085537,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "milk",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "RyjVSu5rjZgcMPWH",
+              "url": "https://farm4.staticflickr.com/3297/3342288661_b76d1d1c6a_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579289,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085548,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la hamburguesa",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085549,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hamburger",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FakPfyRcTSGwKdEn",
+              "url": "https://farm1.staticflickr.com/160/358181681_d636dc07e9_m.jpg",
+              "width": 334,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579290,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085551,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el sandwich de jamon y queso",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085552,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ham and cheese sandwich",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Tb2tmpgFpJ93dydM",
+              "url": "https://o.quizlet.com/i/1O_PfdWSkID0iqO6cxJUCw_m.jpg",
+              "width": 240,
+              "height": 188
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579291,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085560,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el pescado",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085561,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fish",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "AM76vdbQue92aau6",
+              "url": "https://farm1.staticflickr.com/124/375664720_80723a9428_m.jpg",
+              "width": 500,
+              "height": 344
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579292,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085563,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el bistec",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085564,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "steak",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "3Rvx3ugaB9YnAhea",
+              "url": "https://farm4.staticflickr.com/3324/3182238046_239ce5b3cd_m.jpg",
+              "width": 512,
+              "height": 377
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579293,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085566,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el pollo",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085567,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chicken",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5hn9nVs6PSWCRXu8",
+              "url": "https://farm4.staticflickr.com/3267/2887427240_f52c12c69d_m.jpg",
+              "width": 240,
+              "height": 160
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579294,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085569,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el beicon",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085570,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bacon",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fyQGV2WyCfTQQMNy",
+              "url": "https://farm7.staticflickr.com/6158/6175755733_b2932d7838_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579295,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085572,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la salchicha",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085573,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sausage",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GvQYr88GrXkzKSDm",
+              "url": "https://farm6.staticflickr.com/5244/5313699580_44506018a1_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579296,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085575,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el yogur",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085576,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "yogurt",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "chg85nNRqyHFCBmS",
+              "url": "https://o.quizlet.com/3VDHtjhj3-72iWlzcjC.RQ_m.jpg",
+              "width": 204,
+              "height": 247
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579297,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085578,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el arroz",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085579,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "csMtyFJtuNTrMP7n",
+              "url": "https://farm1.staticflickr.com/1/374797_4d0272f14f_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579298,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085581,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "los espaguetis",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085582,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "spaghetti",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "SwgQcFjRCasY8V6D",
+              "url": "https://farm2.staticflickr.com/1243/824608884_c02e6978bd_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579299,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085584,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el refresco",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085585,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fizzy drink",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "96zvav9DSbc4Kt9Y",
+              "url": "https://o.quizlet.com/PHa-90XIXBlJQnlUsMJCqA_m.jpg",
+              "width": 263,
+              "height": 192
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579300,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085596,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el helado",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085597,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ice cream",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5NAeMU29M6YQZ5Uv",
+              "url": "https://farm4.staticflickr.com/3466/3797233796_a2d69117bb_m.jpg",
+              "width": 334,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579301,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085602,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el café",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085603,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "coffee",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "epTnAedC5AxDy495",
+              "url": "https://farm1.staticflickr.com/89/274197870_cb420603a2_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579302,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085605,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el té",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085606,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tea",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GJXxXupnjSFwMczY",
+              "url": "https://farm1.staticflickr.com/31/46005560_8d3e17e569_m.jpg",
+              "width": 500,
+              "height": 374
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579303,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085617,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la zanahoria",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085618,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "carrot",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hCtTWGEV4Th92CDW",
+              "url": "https://o.quizlet.com/Oo6eXdbyKPAvxGSw1cvs3Q_m.jpg",
+              "width": 360,
+              "height": 300
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579304,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974085620,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el pan",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974085621,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bread",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Bs5yt8BzsCHPJhjw",
+              "url": "https://farm5.staticflickr.com/4001/4304562135_5a0b0aa3e9_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579305,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1481358305,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974193131,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "el pimiento",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974193132,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pepper",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zCjQzXvbqvY6bgNt",
+              "url": "https://farm4.staticflickr.com/3218/2919032746_b357a3205d_m.jpg",
+              "width": 240,
+              "height": 182
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762940925579306,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792116778,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1515835012,
+      "lastModified": 1681271482,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 16974227706,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "la merienda",
+              "languageCode": "es",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 16974227707,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "snack",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dMXShPxZ9mzqZHTj",
+              "url": "https://o.quizlet.com/2jaUCtzSQ82F7LcE5LPB-Q_m.jpg",
+              "width": 520,
+              "height": 385
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

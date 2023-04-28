@@ -1,0 +1,4002 @@
+{
+  "set": {
+    "id": 792126752,
+    "timestamp": 1681275918,
+    "lastModified": 1681275922,
+    "publishedTimestamp": 1681275922,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Geography",
+    "description": "",
+    "numTerms": 93,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792126752/geography-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762945577054209,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "archipelago",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large group of islands, like the Bahamas",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fa2MdWDut3g4wJCC",
+              "url": "https://farm9.staticflickr.com/8112/8629407866_6b5dc0555a_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054210,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "atoll",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a ring of coral that encloses a pool of seawater",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "tUmKtbXmPdKgVZRW",
+              "url": "https://o.quizlet.com/ROQ4SLFikXUt1fus7Vz4ZA_m.jpg",
+              "width": 304,
+              "height": 165
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054211,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "badlands",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "wasteland that has been carved into unusual shapes by wind and water, like the Toadstool Geologic Park in Nebraska",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5WmsTS2cbqDKkfYK",
+              "url": "https://farm5.staticflickr.com/4151/5052592735_b1456616d7_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054212,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bay",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a body of water that extends into the land like the ___ of Bengal by India",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ufmk4jEa8hZr9T57",
+              "url": "https://o.quizlet.com/9FAo.wALHAaQoPxA3mMuIQ_m.png",
+              "width": 763,
+              "height": 534
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054213,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "beach",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a rocky or sandy edge of land along a body of water",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qaMhTk3KjArNbD82",
+              "url": "https://o.quizlet.com/iCyoR4p4orFLtqR1hTnusQ_m.jpg",
+              "width": 2560,
+              "height": 1440
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054214,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "butte",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an isolated hill with sloping sides and a small, flat top, like the Courthouse _____ in Arizona",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZttatbpWWw4cRZJ8",
+              "url": "https://farm4.staticflickr.com/3687/9905918265_daf412476d_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054215,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "canyon",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a deep valley with steep sides, like the Grand _____",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yTJWnaw7dgGC4p9Z",
+              "url": "https://o.quizlet.com/wHuQsdERoJIyHjuUTWJVVg_m.jpg",
+              "width": 730,
+              "height": 438
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054216,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cape",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a point of land that juts out into the water, like _____ Cod",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "vkS4c53nb6adgY7Q",
+              "url": "https://o.quizlet.com/h1e66G.aG7hpLaSF2drTAA_m.jpg",
+              "width": 238,
+              "height": 211
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054217,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cave",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a hollow area in the earth with an opening to the outside, like the Jewel _____ in South Dakota",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zhwF3KtaPAvenUa8",
+              "url": "https://farm4.staticflickr.com/3057/2838717832_7fcb6b7cb3_m.jpg",
+              "width": 3425,
+              "height": 2569
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054218,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "channel",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a body of water that connects two larger bodies of water, like the English ______",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cB8E8URAkDVmdZQP",
+              "url": "https://o.quizlet.com/i/-M7RdV3xmad_MqCNLi2SSw_m.jpg",
+              "width": 240,
+              "height": 211
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054219,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cliff",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a high, steep face of rock or earth",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "pHjXEECqPnknRn5h",
+              "url": "https://farm1.staticflickr.com/11/94646907_172e9497e1_m.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054220,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "continent",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "one of the seven great land masses on earth",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZajkVGXmSHj24QFE",
+              "url": "https://farm5.staticflickr.com/4126/5052373414_30b24ea5d5_m.jpg",
+              "width": 322,
+              "height": 164
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054221,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "delta",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a fan-shaped deposit of sand and mud at the mouth of a river",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "jqbCttc6XpjfaNh4",
+              "url": "https://o.quizlet.com/EofS99ve5Uod3EP8ZjvTZA_m.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054222,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "desert",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a region of little rainfall where few plants and animals live, like the Sahara _____",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KMq8nytUabfHHc9r",
+              "url": "https://farm3.staticflickr.com/2152/2199334140_c993dfa174_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054223,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dune",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a hill of sand formed by blowing wind",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Yyy6Sb5sMZdmrUNC",
+              "url": "https://o.quizlet.com/hRTKf0hgIoVew0wNxVvh0A_m.png",
+              "width": 275,
+              "height": 183
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054224,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fjord",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a long, narrow inlet of the sea between cliffs or slopes",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9prWXVnp7rdhChqh",
+              "url": "https://o.quizlet.com/i/jr4TUOcZ_6hwBnd6UuYlxw_m.jpg",
+              "width": 240,
+              "height": 160
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054225,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "forest",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large area of land covered with trees and other plants",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CrcC3uFMY5Cw3vNK",
+              "url": "https://o.quizlet.com/i/y36xcXBGmsOMXA-mMHUjoQ_m.jpg",
+              "width": 240,
+              "height": 192
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054226,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "geyser",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a spring that spouts hot water and steam from time to time, like Old Faithful in Yellowstone National Park",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zFNVcuuKvB5KPakG",
+              "url": "https://farm3.staticflickr.com/2653/3857197445_03589e7359_m.jpg",
+              "width": 512,
+              "height": 767
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054227,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "glacier",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large mass of ice that moves very slowly down a mountain or through a valley",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6WXqhZb65W3YWVHz",
+              "url": "https://o.quizlet.com/i/bE17ZxwlOQ_t_8i8nYWVMw_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054228,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gulf",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large body of salt water that is partly enclosed by land, like the _____ of Mexico",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "WWMmDPsWMPW8TFjG",
+              "url": "https://o.quizlet.com/K0FTLW6A767-mzxKZ0ZD4g_m.png",
+              "width": 448,
+              "height": 354
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054229,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hill",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a raised part of the earth's surface that is lower than a mountain",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "rYw8EK9XB7PRuucp",
+              "url": "https://farm1.staticflickr.com/63/178199167_ba4c4be6a8_m.jpg",
+              "width": 240,
+              "height": 127
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054230,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "iceberg",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a huge block of floating ice that has broken off a glacier",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "pJ2YGZQ68jVcqntN",
+              "url": "https://o.quizlet.com/i/lPL2n7vYueN3fBJ6puu_oQ_m.jpg",
+              "width": 119,
+              "height": 163
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054231,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "island",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a piece of land that is surrounded by water, like Hawaii",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "UeuB2VsVk7tQryaC",
+              "url": "https://o.quizlet.com/i/5o2beMi-zykrqWX5paFlBw_m.jpg",
+              "width": 204,
+              "height": 138
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054232,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "isthmus",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a narrow strip of land that connects two larger land areas, like Central America connecting North America and South America",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MxDq3Wg5xTuwJra2",
+              "url": "https://o.quizlet.com/jiu8w1yBC2Cj9w8oUCPV9g_m.jpg",
+              "width": 259,
+              "height": 195
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054233,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "jungle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an area of think, tangled plants usually found near a river or swamp",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "rrHnHu4KEKQm8ZEf",
+              "url": "https://farm4.staticflickr.com/3274/2443767203_dafdf1a4f8_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054234,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lagoon",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a shallow body of water that is partly cut off from the sea",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8gMPE8GVC4RJfXht",
+              "url": "https://o.quizlet.com/MqdzwrhMHmqqlWBZ3i-Jvw_m.jpg",
+              "width": 250,
+              "height": 250
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054235,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lake",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an inland body of fresh or salt water, like the Great _____",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "petZCvDb9brQzJkP",
+              "url": "https://farm1.staticflickr.com/46/111717653_71c72f59b8_m.jpg",
+              "width": 512,
+              "height": 625
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054236,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "marsh",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a low, wet area where grasses, rushes, and cattails grow",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "aF4CxVKknxskRBJw",
+              "url": "https://o.quizlet.com/kEmrckRcvL9AUKIvKtmTrQ_m.jpg",
+              "width": 1024,
+              "height": 443
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054237,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mesa",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a raised area with steep sides and a large, flat top",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "BfgxVSCSYcVBRV7D",
+              "url": "https://o.quizlet.com/eFfqy8.BIAS0ZuFqTca.7g_m.jpg",
+              "width": 3264,
+              "height": 2448
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054238,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mountain",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a high area of land with steep sides and a sharp peak like Everest",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "JmDZYJVgaX5GyTcQ",
+              "url": "https://farm1.staticflickr.com/127/408879493_d05ed9846c_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054239,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ocean",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the body of salt water that covers most of the earth, like the Pacific ____, Atlantic ____, and the Indian _____",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eF3ZybtgrRmfYdW4",
+              "url": "https://o.quizlet.com/0zifSlC6Z4egVb2AyTNteA_m.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054240,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "peninsula",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an area of land that is nearly surrounded by water, like Florida",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "aaxz7N5KK3aE3Upj",
+              "url": "https://o.quizlet.com/i/kXWgZQJp5QC5FTMPyMXnXw_m.jpg",
+              "width": 512,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054241,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "plain",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large, low area of flat or rolling land with few trees",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "3zKcn3dHzdTgBzms",
+              "url": "https://farm3.staticflickr.com/2574/3756502942_0447bc54d8_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054242,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "plateau",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a flat area of land that is higher than the land around it",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gfN5S37hsUQvZhep",
+              "url": "https://farm4.staticflickr.com/3570/3822361094_b88192ecb1_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054243,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "prairie",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a region of flat or hilly land covered by tall grasses",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "N7HfrbM3dQkbbqvm",
+              "url": "https://farm4.staticflickr.com/3526/3941977432_ee3428b581_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054244,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "river",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a long body of water that flows over land, like the Mississippi",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "rVA8ZWVxsPeadWdc",
+              "url": "https://farm5.staticflickr.com/4009/4616069553_1740ff78b3_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054245,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a body of salt water that is partly enclosed by land, like the Black _____",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YyAQRRHMDnhDVmhs",
+              "url": "https://o.quizlet.com/Pw8o07HFRwn.tJzW.dFCFw_m.png",
+              "width": 700,
+              "height": 452
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054246,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sound - Geographically Speaking",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a long wide ocean inlet, like the Long Island ____ in New York",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "26MRy3xVPJcnTdrK",
+              "url": "https://o.quizlet.com/veEK5x-A0Odo5DbH3l0TRg_m.jpg",
+              "width": 437,
+              "height": 199
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054247,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "strait",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a narrow body of water that connects two larger bodies of water",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GH7rknABgy5mTvfm",
+              "url": "https://o.quizlet.com/i/_UvTetMPbPcP_qtDWdNUqQ_m.jpg",
+              "width": 240,
+              "height": 160
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054248,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "swamp",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a low, wet area where trees and high shrubs grow",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TpapXhz8WvcAXvZU",
+              "url": "https://farm4.staticflickr.com/3682/13893601665_97d6fda077_m.jpg",
+              "width": 500,
+              "height": 331
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054249,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tundra",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a cold, dry, treeless region where mosses, grasses, and lichens grow, like Greenland",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DeHtfy8EsG9YKnMy",
+              "url": "https://o.quizlet.com/i/bNUjy9-fbcQ8mQb6ycMKdg_m.jpg",
+              "width": 186,
+              "height": 139
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054250,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "valley",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an area of low land between mountains or hills",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TQwKKjF8qPjs3Zum",
+              "url": "https://farm3.staticflickr.com/2020/2120346832_6d5b5a9422_m.jpg",
+              "width": 180,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054251,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "volcano",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a hole in the earth's crust through which lava, gases, and ash are released",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "d5RMfdzbe7WjfqP5",
+              "url": "https://o.quizlet.com/E1ecXAfZEAnLT3SznE0MaQ_m.jpg",
+              "width": 320,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054252,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "waterfall",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a stream of water that falls from a high place",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "x7mjxE9U8wXqvJDU",
+              "url": "https://o.quizlet.com/HbOgJZ8kRFOpY4apI5K7CA_m.jpg",
+              "width": 284,
+              "height": 177
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054253,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chartography",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Science of mapmaking",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054254,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cultural landscape approach/regional studies",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Approach to geography that emphasizes the relationships among social and physical phenomena in a particular study area",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054255,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Culture",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Beliefs, customs, and traditions of a specific group of people.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054256,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Formal region",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An area in which everyone formally shares in one or more distinctive characteristics",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054257,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Functional region",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An area organized around a node or focal point that works with defined barriers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054258,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Geographic information science",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The development and analysis of the provided Geographic information system about Earth",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054259,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 50,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Geographic information system",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A computer system that stores, organizes, analyzes, and displays geographic data",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054260,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 51,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Global positioning system",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the system that accurately determines the precise position of something on Earth - not referring to the Geographic information system's information",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054261,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 52,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Greenwich meantime",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The time in the zone encompassing the prime meridian or 0° longitude",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054262,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 53,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "International dateline",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The line of longitude that marks were each new day begins, centered on the 180th meridian - back 24 hours east and forward 24 hours west",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054263,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 54,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Latitude",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The angular distance of a place east or west of the meridian at Greenwich, England",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054264,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 55,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Location",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The position of anything on Earth's surface",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054265,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 56,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Longitude",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Distance north or south of the Equator, measure in degrees.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054266,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 57,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Map",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A two-dimensional, or flat, representation of Earth's surface or a portion of it.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054267,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 58,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Map scale",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the relationship between a distance on the map and the actual distance on the ground",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054268,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 59,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mental map",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an internal, personal subjective representation of a person's portion of Earth's surface",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054269,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 60,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meridian",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An arc drawn on a map between north and south poles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054270,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 61,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Parallel",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A circle around the globe parallel to the equal later and at a right angles to the meridians",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054271,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 62,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Place",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Specific point on earth distinguished by a particular characteristic; ex: I love to go to that ______ that offers fish pizza",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054272,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 63,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Prime meridian",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the imaginary line that runs from North Pole to South Pole through Greenwich, England - 0* longitude",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054273,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 64,
+      "creatorId": 305811011,
+      "timestamp": 1529629971,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Region",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An area distinguished by a unique combination of trends or features.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054274,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 65,
+      "creatorId": 305811011,
+      "timestamp": 1529629996,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Site",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The physical character of a place; ex: The archeologists need to work harder on the ____ where they found the dinosaur bones. (Not 'location')",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054275,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 66,
+      "creatorId": 305811011,
+      "timestamp": 1529629996,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Oligarchy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A government ruled by a few; most communist countries use this method",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054276,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 67,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "internal",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "existing or lying within",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054277,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 68,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "transmit",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to send something across places; to pass along",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054278,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 69,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "absolute location",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Exact location of a place on the earth described by global coordinates",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054279,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 70,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "relative location",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The position of a place in relation to another place",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054280,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 71,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "elevation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "height of land above sea level",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054281,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 72,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "relief - Geographically Speaking",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the variation in elevation across an area of Earth's land",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054282,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 73,
+      "creatorId": 305811011,
+      "timestamp": 1529630484,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "thematic map",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a map that shows a particular theme, or topic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054283,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 74,
+      "creatorId": 305811011,
+      "timestamp": 1529630506,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "democracy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a government ruled by many; a republic or a direct democracy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054284,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 75,
+      "creatorId": 305811011,
+      "timestamp": 1529630506,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "glaciation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a process by which glaciers form and spread",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054285,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 76,
+      "creatorId": 305811011,
+      "timestamp": 1529630506,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "geothermal energy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a form of energy conversion that captures heat energy from within Earth",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "xv5hjrGBz74vdNUV",
+              "url": "https://farm4.staticflickr.com/3130/2333875782_2ffb809408_m.jpg",
+              "width": 500,
+              "height": 328
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054286,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 77,
+      "creatorId": 305811011,
+      "timestamp": 1529630506,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hot spring",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a spring whose water issues at a temperature higher than that if its surroundings",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "p5aebnyxcZ9rMgbX",
+              "url": "https://farm4.staticflickr.com/3107/2675418717_dba3eb0dba_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054287,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 78,
+      "creatorId": 305811011,
+      "timestamp": 1529630506,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "welfare state",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a state that assumes primary responsibility for the social welfare of its citizens",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054288,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 79,
+      "creatorId": 305811011,
+      "timestamp": 1529630527,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dam",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a barrier that runs across a river or stream to control the flow of water",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4mkz2Tbh44a4FdM9",
+              "url": "https://farm5.staticflickr.com/4001/4587768101_a5aa3ed686_m.jpg",
+              "width": 240,
+              "height": 160
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054289,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 80,
+      "creatorId": 305811011,
+      "timestamp": 1529630527,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "levee",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a wall of earth built to prevent a river from flooding its banks, like in New Orleans",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8MAZYf5hMbjxMMzD",
+              "url": "https://o.quizlet.com/unUPQ87g-TP5PcUWKQaS8w_m.jpg",
+              "width": 350,
+              "height": 202
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054290,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 81,
+      "creatorId": 305811011,
+      "timestamp": 1529630527,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mistral",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a strong northerly wind from the Alps that can bring cold air to southern France",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QKqyrQAPp4JeCpgc",
+              "url": "https://farm1.staticflickr.com/152/357366514_cedf4e2a7e_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054291,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 82,
+      "creatorId": 305811011,
+      "timestamp": 1529630527,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "foehn",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a warm dry wind that blows down the leeward sides of mountains, sometimes melting snow and causing avalanches; term used mainly in Europe",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "nKn9s5aMVcmXjqRN",
+              "url": "https://o.quizlet.com/24Ryk-AbfhB0rAocZpHxYQ_m.jpg",
+              "width": 583,
+              "height": 418
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054292,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 83,
+      "creatorId": 305811011,
+      "timestamp": 1529630527,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "avalanche",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a slide of large masses of snow, ice, and mud down a mountain",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9VHs88jgpy64HPn2",
+              "url": "https://farm5.staticflickr.com/4043/4300538891_529d505661_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054293,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 84,
+      "creatorId": 305811011,
+      "timestamp": 1529630550,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "meltwater",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "water formed by ice and snow",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054294,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 85,
+      "creatorId": 305811011,
+      "timestamp": 1529630550,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "karst",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "land characterized rocky ground, caves, sinkholes, underground rivers, and no surface streams or lakes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054295,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 86,
+      "creatorId": 305811011,
+      "timestamp": 1529630555,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ethnic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "people classed according to common traits and customs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054296,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 87,
+      "creatorId": 305811011,
+      "timestamp": 1529630555,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "comprise",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to constitute, to make-up",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054297,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 88,
+      "creatorId": 305811011,
+      "timestamp": 1529630555,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "reforestistation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "preserving resources by planting trees",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054298,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 89,
+      "creatorId": 305811011,
+      "timestamp": 1529630555,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "emphasis",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "significance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054299,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 90,
+      "creatorId": 305811011,
+      "timestamp": 1529630560,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ethnic cleansing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the elimination of a people from a country, killing of people from a country",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054300,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 91,
+      "creatorId": 305811011,
+      "timestamp": 1529630560,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "monocultures",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "large areas of land with a single plant variety",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945577054301,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126752,
+      "type": 2,
+      "rank": 92,
+      "creatorId": 305811011,
+      "timestamp": 1529630560,
+      "lastModified": 1681275918,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "biodiversity",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the variety of life in the world or in a particular habitat or ecosystem",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

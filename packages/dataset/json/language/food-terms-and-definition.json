@@ -1,0 +1,2124 @@
+{
+  "set": {
+    "id": 792117027,
+    "timestamp": 1681271565,
+    "lastModified": 1681271570,
+    "publishedTimestamp": 1681271570,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Food terms and definition",
+    "description": "",
+    "numTerms": 54,
+    "hasImages": false,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792117027/food-terms-and-definition-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762941012553734,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "al denta",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "italian term describing the way pasta is cooked so its texture is slightly resistant to the bite.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553735,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "baste",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to spoon pan juices, melted fat, or another liquid over the surface of food during cooking to keep the food moist and add flavor.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553736,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "beat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to mix ingredients together with a circular up and down motion using a spoon, whisk, or rotary or electric beater.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553737,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "blanch",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to scald or parboil in water or steam",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553738,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "blend",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to stir ingredients until they are thoroughly combined.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553739,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "boil",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cook in liquid at 212 degrees fahreheit",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553740,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "butterfly",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "spliting product in half",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553741,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "carve",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cut or slice cooked meat, poultry, fish, or game into serving-size pieces",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553742,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "casserole",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a large deep dish in which food can be served",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553743,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chill",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to make food cold by placing it in a refrigerator or in a bowl over crushed ice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553744,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chop",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cut into small pieces",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553745,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "combine",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to mix or blend two or more ingredients together",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553746,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "coat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to thoroughly cover food with a liquid or dry mixture",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553747,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cube",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cut into small squares of equal size",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553748,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "curdle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cause semisolid pieces of coagulated protein to develop in a dairy product",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553749,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cut in",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "combine solid fat with flour using a pastry blender, two forks, or fingers",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553750,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dash",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Refers to a small amount of seasoning that is added to food. It is generally between 1/16 and 1/8 teaspoon. The term is often used for liquid ingredients, such as bottled hot pepper sauce",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553751,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cut into small cubes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553752,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "emulsion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mixture that forms when oil and liquid mix together",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553753,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "garnish",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To add visual appeal to a finished dish",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553754,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gluten",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An elastic protein present in flour, especially wheat flour, that provides most of the structure of baked products.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553755,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "julienne",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cut into thin shreds",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553756,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "knead",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to work dough by pressing it with the heels of the hands, folding it, turning it, and repeating each motion until the dough is smooth",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553757,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "marble",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To gently swirl one food into another. Marbling is usually done with light and dark batters for cakes or cookies.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553758,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "marinade",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A seasoned liquid in which meat, poultry, fish, shellfish, or vegetables are soaked to flavor and sometimes tenderize them. Most marinades contain an acid, such as wine or vinegar",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553759,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "melt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To heat a solid food, such as chocolate, margarine, or butter, over very low heat until it becomes liquid or semi-liquid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553760,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mince",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cut or chop into very fine pieces",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553761,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mix",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to combine two or more ingredients into a mass",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553762,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mull",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To slowly heat a beverage, such as cider, with spices and sugar",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553763,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pare",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to remove the steam and outer covering of a veggie or fruit with a paring knife or peeler",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553764,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pipe",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To force a semisoft food, such as whipped cream or frosting, through a pastry bag to decorate food",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553765,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pit",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To remove the seed from fruit",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553766,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "poach",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cook a food by partially or completely submerging it in a simmering liquid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553767,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "preheat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To heat an oven or a utensil to a specific temperature before using it.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553768,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "puree",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To process or mash a food until it is as smooth as possible. This can be done using a blender, food processor, sieve, or food mill; also refers to the resulting mixture.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553769,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pyramid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a chart showing the amount of in take needed of different food groups",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553770,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "saute",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cook food in a small amount of hot fat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553771,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "score",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to make small, shallow cuts on the surface of a food",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553772,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sear",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To brown a food, usually meat, quickly on all sides using high heat. This helps seal in the juices and may be done in the oven, under a broiler, or on top of the range.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553773,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "simmer",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cook in liquid that is barely at the boiling point",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553774,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "snip",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cut food, often fresh herbs or dried fruit, with kitchen shears or scissors into very small, uniform pieces using short, quick strokes.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553775,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "steam",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cook a food in the vapor given off by boiling water",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553776,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "stew",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To cook food in liquid for a long time until tender, usually in a covered pot. The term also refers to a mixture prepared this way",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553777,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "time",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the amount of minutes/ hours it takes to cook, rest, or prepare",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553778,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "toast",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "To heat and brown (bread, for example) by placing in a toaster or an oven or close to a fire",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553779,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "whip",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to beat quickly and steadily by hand with a whisk or rotary beater",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553780,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "cream",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to soften solid fats, often by adding a second ingredient, such as sugar, working with wooden spoon or an electric mixer",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553781,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dredge",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to coat a food by sprinkling it with or dripping it in a dry ingredient such as flour or bread crumbs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553782,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fold in",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "two or more ingredients combined by passing a spatula down through the mixture, across the bottom, and up over the top. This process continues until the mixtures are combined. This traps air into bubbles in the product, allowing baked goods to rise.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553783,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "shred",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cut or break into thin pieces",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553784,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 50,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sift",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to put through a sieve to reduce to finer particles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553785,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 51,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "skim",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to remove a substance from the surface of a liquid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553786,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 52,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "saute",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cook food in a small amount of fat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762941012553787,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792117027,
+      "type": 2,
+      "rank": 53,
+      "creatorId": 305811011,
+      "timestamp": 0,
+      "lastModified": 1681271565,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "roast",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "to cook uncovered in the oven with dry heat",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

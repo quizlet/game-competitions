@@ -1,0 +1,544 @@
+{
+  "set": {
+    "id": 790815905,
+    "timestamp": 1680817216,
+    "lastModified": 1680817248,
+    "publishedTimestamp": 1680817248,
+    "title": "Pixar Movies",
+    "description": "",
+    "numTerms": 12,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/790815905/pixar-movies-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762464593125378,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1619015862,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64107984705,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Soul",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64107984706,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NJDfHwgEvDy7Jhjq",
+              "url": "https://o.quizlet.com/D.OUtM5tfkmrEkavs7V-.Q_m.png",
+              "width": 242,
+              "height": 168
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125379,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1619015959,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108053981,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cars",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108053982,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "JmG6kqhq38snqVca",
+              "url": "https://o.quizlet.com/Epu8c5CIVe36T7uttit9kA_m.png",
+              "width": 270,
+              "height": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125380,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1619015969,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108061490,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Up",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108061491,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kQwFxVe7nUWP3JFf",
+              "url": "https://o.quizlet.com/hljeLOTI0.TVrIzaqKQxQA_m.png",
+              "width": 256,
+              "height": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125381,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1619015979,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108067238,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Coco",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108067239,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FwuFJDtFDB943Jsh",
+              "url": "https://o.quizlet.com/Z8KTwzoo3mWUGNAOm3hqog_m.png",
+              "width": 252,
+              "height": 234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125382,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1619016001,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108083318,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Toy Story",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108083319,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "TR9n7mcZm23fUaXK",
+              "url": "https://o.quizlet.com/ttKyr1k5xa0a7teKY4qZYw_m.jpg",
+              "width": 1330,
+              "height": 748
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125383,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1619016011,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108089348,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Monsters Inc",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108089349,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "D6NWUd8UjzUxUGzW",
+              "url": "https://o.quizlet.com/-2eyg8Hco.eEfpDAdfBztw_m.jpg",
+              "width": 284,
+              "height": 177
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125384,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1619016028,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108102908,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Onward",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108102909,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8sVSbgfYbEbNc8rG",
+              "url": "https://o.quizlet.com/hTiWUw7dXV6aXo5eJdn3TQ_m.png",
+              "width": 240,
+              "height": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125385,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1619016065,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108125333,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Wall-E",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108125334,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fn2ZjcFZjKrWQBQJ",
+              "url": "https://o.quizlet.com/QLOJ1XIP3GBlvl0QLPYQPQ_m.jpg",
+              "width": 299,
+              "height": 299
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125386,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1619016077,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108146600,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Inside Out",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108146601,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GvRYXzeXbch8fJFr",
+              "url": "https://o.quizlet.com/z28XCvpEVaYaRu2uNiJpvA_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125387,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1619016088,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108154589,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Finding Nemo",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108154590,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "tbGTUCTSQGeA4RyZ",
+              "url": "https://o.quizlet.com/i/XftcnO6GyXTvEIx3oXlS_g_m.jpg",
+              "width": 472,
+              "height": 359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125388,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1619016102,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108167486,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ratatouille",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108167487,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5yX4RDt4xmumqCeB",
+              "url": "https://farm4.staticflickr.com/3603/3634667378_b339c4c672_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762464593125389,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790815905,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1619016125,
+      "lastModified": 1680817216,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 64108183761,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A Bug's Life",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 64108183762,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eH2xtpVErhDSwXD6",
+              "url": "https://o.quizlet.com/bCOzrCXe93Q59QeqbPPUeQ_m.jpg",
+              "width": 269,
+              "height": 350
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

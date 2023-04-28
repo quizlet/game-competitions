@@ -1,0 +1,720 @@
+{
+  "set": {
+    "id": 792126893,
+    "timestamp": 1681275994,
+    "lastModified": 1681275997,
+    "publishedTimestamp": 1681275997,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Rivers of Europe",
+    "description": "",
+    "numTerms": 18,
+    "hasImages": false,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792126893/rivers-of-europe-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762945656750080,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1680717557,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Danube River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The second-longest river of Europe. It flows from southern Germany east into the Black Sea.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750081,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1680717576,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dnieper River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Flows from Russia through Belarus and Ukraine to the Black Sea. Kiev is a port city here.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750082,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1680717600,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Don River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Begins south of Moscow and empties into the Black Sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750083,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1680717623,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Elbe River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "River in central Europe, flowing from NW Czech to North sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750084,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1680717651,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Loire River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Longest river in France",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750085,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1680717663,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Oder River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The river that makes the border between Russia and Germany",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750086,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1680717699,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Po River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "River in northern Italy that flows to the Adriatic Sea, longest river in Italy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750087,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1680717752,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Rhine River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Carries more traffic than any other river in the world, begins in Switzerland flows to the North Sea, border between France and Germany",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750088,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1680719459,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Rhone River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "flows through Switzerland and France to the Mediterranean Sea.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750089,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1680719483,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "River Shannon",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "longest river in Ireland, and the British Isles; flows out of the city of Limerick to the Atlantic",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750090,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1680719521,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Tagus River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Iberian Peninsula's longest river that connects the capitals Madrid, Spain, and Lisbon, Portugal. Flows from the Montes Universales mountain range to the Atlantic.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750091,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1680719654,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Volga River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The longest river in Europe and Russia's most important commercial river. Empties in the Caspian Sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750092,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1680719834,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Thames River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This largest river in England runs through London and empties into the North Sea.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750093,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1680719879,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Seine River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a French river that flows through the heart of Paris and then northward into the English Channel",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750094,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1680719986,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ural River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "flows from the Ural Mountains through Russia, Kazakhstan, and into the Caspian Sea (east of the Volga). Third longest river in Europe, used a s border between Europe and Asia.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750095,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1680720499,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ebro River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "River in Spain that acted as a border for Carthage, longest river fully contained in Spain, flows East to Mediterranean.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750096,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1680720743,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Vardar river",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Longest river in North Macedonia and a major river in Greece. Reaches the Aegean Sea at Thessaloniki.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762945656750097,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792126893,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1680720971,
+      "lastModified": 1681275994,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Vistula River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a river in Poland that flows 678 miles from the Carpathian Mountains to the Baltic Sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

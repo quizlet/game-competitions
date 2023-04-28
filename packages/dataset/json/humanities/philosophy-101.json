@@ -1,0 +1,2318 @@
+{
+  "set": {
+    "id": 792124048,
+    "timestamp": 1681274587,
+    "lastModified": 1681274591,
+    "publishedTimestamp": 1681274590,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Philosophy 101",
+    "description": "",
+    "numTerms": 50,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792124048/philosophy-101-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762944181350400,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Transcendentalism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophy founded in Northeastern America in the early 1800's, borrowing from ideas of Immanuel Kant. Stresses that people can only reach their highest potential when they rise above, or transcend, the expectations & limitations that society & institutions place on them.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "pzMBXu2DnRDsCeRV",
+              "url": "https://o.quizlet.com/U-jZ8jrdZJGeeoF0kfAcGQ_m.jpg",
+              "width": 365,
+              "height": 280
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350401,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dogma",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Any system or way of thinking that is widely accepted as truth because it has been laid down long ago by an authority.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HcdrPMKFZG2ux5Ec",
+              "url": "https://o.quizlet.com/4Ys.ShKnZ76PnO7pZ0xuBA_m.png",
+              "width": 343,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350402,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Bracketing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The process of setting aside assumptions about things & looking at them with fresh eyes.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4HUhrDMvUnshfyNh",
+              "url": "https://o.quizlet.com/ZklU4fSXRZVG0z4hsjG6aQ_m.jpg",
+              "width": 860,
+              "height": 1024
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350403,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "New Age",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A contemporary philosophy that stresses higher spiritual awareness on a global level. Emphasizes global awareness and incorporating any number of multi-cultural beliefs and styles.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "w7dEVjrEUZ9znKtv",
+              "url": "https://o.quizlet.com/v33gTfwTAAvhIb9Ju14rqA_m.png",
+              "width": 398,
+              "height": 248
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350404,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Metaphysical",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Means beyond the physical. A branch of philosophy that studies reality in general. To believe in the metaphysical is to believe in things that can't be proven or observed with the five senses.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8wDVeyn9sFDWT4Vg",
+              "url": "https://o.quizlet.com/HGoM3unC-faLaMXynoapsg_m.png",
+              "width": 340,
+              "height": 255
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350405,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Asceticism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The practice of denying oneself physical comforts & necessities to focus on things other than the material world.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "83p67XCwMvNb6B8a",
+              "url": "https://o.quizlet.com/fdw2egz83g9IPOyUMGOX-Q_m.png",
+              "width": 253,
+              "height": 233
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350406,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Collective Unconscious",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In the psychology of Carl Jung, the body of symbolism & mythic images inherited from early humans that people have in their unconscious minds. (Akashic Records...?)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "aTJ4gqWkdeaQwA6Q",
+              "url": "https://o.quizlet.com/SFjpNLTDZCEh5.yOfIrUQg_m.png",
+              "width": 278,
+              "height": 283
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350407,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Marxism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A 19th century philosophy based on the principles of Karl Marx. Says that the way people think depends on the way that people make & use things. A person's sense of self-worth is determined by their usefulness in society.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Mwyd7HZUsQrmsByC",
+              "url": "https://farm6.staticflickr.com/5335/9530897533_d7c400bcc3_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350408,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Feminism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophical & political movement that stresses gender equality in a male-dominated society. First emerged during the French & American revolutions, then again in the US in the 1960's.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "rFZDKh8Xu9mE9R98",
+              "url": "https://o.quizlet.com/WFWtI7QY4qWU9xI82IHx6Q_m.jpg",
+              "width": 382,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350409,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Monotheism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The belief in a single all-powerful God. Judaism, Christianity, & Islam all fit into this category.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4AhtDvYDSFTtVeky",
+              "url": "https://o.quizlet.com/PhnPYJxDS1wRfLDFoTGOlg_m.jpg",
+              "width": 500,
+              "height": 403
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350410,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pantheism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Means all is god. That belief that God is all things and all things are God. Includes a belief that people are aspects of God & therefore have divine power in themselves.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4Wvdxx8wFZrWTZuj",
+              "url": "https://o.quizlet.com/2ArPte34AzbHUouE8nSMqA_m.jpg",
+              "width": 736,
+              "height": 514
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350411,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1549994875,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mysticism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The idea that we can have direct contact & personal experience with God without a mediator (priest, minister, etc.). This may come through dreams, visions, meditation, or art.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "nQ2jnKPBSNcG9UtK",
+              "url": "https://o.quizlet.com/jmyO2IO1JA6PQqMXakiTJQ_m.jpg",
+              "width": 252,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350412,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pragmatism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophy founded by C.S. Pierce & William James that says the meaning of anything depends on its practical applications.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "PYFZ4MAhYTmRdwxC",
+              "url": "https://o.quizlet.com/rvE8bdXQSWTTqaCfL5yFaQ_m.png",
+              "width": 419,
+              "height": 258
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350413,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Existentialism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophy supported by Kierkegaard, Heidegger, Sartre stressing that individuals are free and give their own meaning to reality.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YcCxjVjQx5UE6DrM",
+              "url": "https://o.quizlet.com/i/1hx4EmWZWK5RjmkXq3G1Aw_m.jpg",
+              "width": 353,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350414,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1549994911,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Epicureanism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An ancient Greek philosophy founded by Epicurus in the third century BCE. Stresses the avoidance of mental pain, stress, & anxiety by seeking simple pleasures. (Enjoying the simple things in life.)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CBfFr38p3DQxb9XP",
+              "url": "https://o.quizlet.com/Apiv1Del4oxaVqIGNxUjvg_m.jpg",
+              "width": 274,
+              "height": 184
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350415,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Skepticism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The view that we can't be certain of anything. It comes from an Ancient Greek word meaning, \"seeking.\"",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "q9D42ayywPjTamuZ",
+              "url": "https://o.quizlet.com/H9AqEtHchaWZaoFG6VSfVg_m.jpg",
+              "width": 275,
+              "height": 183
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350416,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Stoicism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An ancient Greek philosophy founded by Zeno in the third century BCE. Stresses emotional detachment from the workings of fate and to live in harmony with divine Reason. Teaches indifference to fortune, pleasure, or pain.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "VcDq9aTk8UcWS6k8",
+              "url": "https://o.quizlet.com/bPoNHA2ujPlKckGzpNFaUw_m.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350417,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ataraxia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The ancient Greek term for mental tranquility.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dTHHUSaJK3qUk29Y",
+              "url": "https://o.quizlet.com/j-PFjXMogmoCZ7vjw1i9ZQ_m.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350418,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Arete",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The ancient Greek term for the highest personal excellence & integrity to do what must be done. Fulfillment of one's life's purpose.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9Db9VmNYZ34VDXUR",
+              "url": "https://o.quizlet.com/suGWyxnbMsXBmIgiUNbWew_m.png",
+              "width": 274,
+              "height": 212
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350419,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Akrasia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The ancient Greek term for weakness of will that causes people to do what they know is not right.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "H83NqGG2CUWyRMsZ",
+              "url": "https://o.quizlet.com/9TvB-Ne9UaeIRJ8UxXcTPg_m.jpg",
+              "width": 251,
+              "height": 201
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350420,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1549994945,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Materialism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The belief that existence is only physical. Thinking & knowing are effects produced by our senses. (Basically, that there is no soul. All that exists is matter and energy.)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "K8FyT5DHGHGnTAte",
+              "url": "https://o.quizlet.com/GnTaYi9UWn4NffoTO0mv7A_m.jpg",
+              "width": 308,
+              "height": 164
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350421,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1549994945,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dualism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The belief that reality can be separated into both material & spiritual components. The spiritual component makes thinking & knowing possible. (The spirit world exists, and is separate from the physical world.)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MJjHhRzpjKue3BYK",
+              "url": "https://o.quizlet.com/B6-vSzvcNKcROZe9NaVFEQ_m.png",
+              "width": 250,
+              "height": 125
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350422,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Confucianism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophy of ancient China founded by Kung fu-tzu that stresses social harmony & respect for others.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Yh7CcyTmRbEQXfbd",
+              "url": "https://o.quizlet.com/PtPgHU8IsSQt4M1nr8g-lQ_m.jpg",
+              "width": 147,
+              "height": 217
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350423,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Li",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Chinese word for courtesy & ceremoniousness. Confucius used the term to bring ritual & respect to daily life.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "N8FRV76sUXWK7GfG",
+              "url": "https://farm4.staticflickr.com/3637/3354492984_b56de8e6d6_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350424,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Buddhism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A philosophy/religion founded in India during the 5th century BCE by Siddhartha Gautama. Stresses that suffering happens when we don't get what we want, so we should stop wanting so much.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zzyutdyvkUPuqbNx",
+              "url": "https://o.quizlet.com/w4bJu8OmhWUiZ33qj5e8aw_m.jpg",
+              "width": 259,
+              "height": 195
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350425,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Nirvana",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The ultimate goal of Buddhism. The release from suffering, release from desire, and release from a sense of self.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gDtWxCUupXgBBN3n",
+              "url": "https://o.quizlet.com/.tHH62yMI5Bmu7f-V0D4fA_m.jpg",
+              "width": 240,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350426,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Taoism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An ancient, mystic Chinese religion based on the writings of Lao Tzu. Means \"the way.\" Stresses acceptance of the way things are & union with the nature of the world.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "guPg9r3Bfp39HBpP",
+              "url": "https://o.quizlet.com/fxEXoiq0EfU-3M.xx5nyxg_m.png",
+              "width": 531,
+              "height": 301
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350427,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Wu-wei",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Means, \"non-doing.\" A Taoist principle that means receptivity, acceptance, and effortless action.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "z5db4535K62famh7",
+              "url": "https://o.quizlet.com/OPbOSg2yTbBZeqUVbzjIeA_m.png",
+              "width": 437,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350428,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yin & Yang",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A Taoist symbol that represents the balance of opposing forces.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gbwsHRbCuc3JBnAy",
+              "url": "https://farm4.staticflickr.com/3414/5731191759_fa88acbd8d_m.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350429,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Feng Shui",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A Taoist form of divination sometimes called \"geomancy\" (Earth Magic). Practitioners believe that the positions of geological features and natural elements can affect the well-being and good fortune of people that live in the area. Applies to building a home, furnishing & decorating a home, and even selecting a burial site. Translates to \"wind water.\"",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QDHGMGCbVYpafFaA",
+              "url": "https://o.quizlet.com/o01jKAXNXnVICceTTSYA2g_m.png",
+              "width": 779,
+              "height": 543
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350430,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hinduism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An ancient Indian religion based on our duties and action. It includes the belief in reincarnation and has a large pantheon of gods & goddesses.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Q7hZhYMn76kCGFk2",
+              "url": "https://o.quizlet.com/RBZjfp759DCNrl7aFoNhZg_m.jpg",
+              "width": 624,
+              "height": 499
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350431,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Dharma",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "According to Hinduism, our duties we must fulfill to the gods, our families, or neighbors, & ourselves.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6xGSgf9sP5HMP5DJ",
+              "url": "https://farm4.staticflickr.com/3172/2449810141_9065365804_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350432,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Karma",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "According to Hinduism, the sum of our actions, & actions in previous lives, that determine the fate of our future existence.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Vyq2SRKK8wpKheuJ",
+              "url": "https://farm5.staticflickr.com/4024/4382093720_d1d9e435d4_m.jpg",
+              "width": 500,
+              "height": 313
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350433,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Moksa",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In Hinduism, the transcendent release from suffering. The Hindu equivalent of nirvana. Includes the release from the karmic cycle of reincarnation.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dPGby8J2FBET3XGu",
+              "url": "https://o.quizlet.com/L94VKtCx75JI9eYQJoGFkg_m.jpg",
+              "width": 365,
+              "height": 507
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350434,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ahimsa",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The Hindu & Buddhist principle of nonviolence that encourages respect for all living things.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Jz5eXEQXknGtDKWt",
+              "url": "https://o.quizlet.com/j99whw.ylItrcO6YC8dA2Q_m.jpg",
+              "width": 154,
+              "height": 166
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350435,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yoga",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A form of mental & physical discipline that many Hindus believe can lead to moksa.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5rrDNzZsnAdW4d9N",
+              "url": "https://o.quizlet.com/uNuBE4lDskJcZSIqYZEiVg_m.png",
+              "width": 201,
+              "height": 250
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350436,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1549995024,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chi",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In many cultures this is the breath of life. It is the life force that flows through the universe and all living things. It is your own personal energy and connection to the universe. Chinese = Chi, Japanese = Ki, Hindu = Prana, Ancient Egypt = Ka, Jediism = The Force.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "P3hzgtRUN5BcQXKU",
+              "url": "https://o.quizlet.com/i/ygdp4alX_-aILVTkK9GzUg_m.jpg",
+              "width": 208,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350437,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Deism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The belief in an unknowable God who set the world in motion at the beginning of time, but has done little to interfere since that time.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "thPkCSTSUUTFmQM4",
+              "url": "https://o.quizlet.com/i/ZWkGYhd31xrBRfoqQmXGAw_m.jpg",
+              "width": 500,
+              "height": 416
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350438,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Monism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The belief that the natural world is all connected into a single, unified whole. There is only one thing - the universe. All other divisions are artificial and arbitrary.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "aWeRkkMC4kaC8zpT",
+              "url": "https://o.quizlet.com/UGXEnaJAlUTX2zC1gNnm6g_m.jpg",
+              "width": 1440,
+              "height": 960
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350439,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ethics",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The study of moral & social behavior. Our actions should not only benefit us, but benefit our society. Just because we can do something doesn't mean we should.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Tc8fBFvJCnvkhnsr",
+              "url": "https://o.quizlet.com/C8o-61QfM.GdvNkh3Wq6ew_m.jpg",
+              "width": 240,
+              "height": 202
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350440,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Relativism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The idea that good & bad are not universal, but may be different in different societies.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "j2aDN2jf6tKYhN5m",
+              "url": "https://o.quizlet.com/sAnMOoJSq9Ojx9ZnqQ3E6w_m.png",
+              "width": 483,
+              "height": 389
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350441,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ontology",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The metaphysical study of being & existence.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9qnaCauCzazBr5yG",
+              "url": "https://farm3.staticflickr.com/2380/3528644867_cc2150c0f4_m.jpg",
+              "width": 432,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350442,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Epistemology",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The study of knowing. What do we mean when we say that we \"know\" something?",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FrzGAmsRtGX5s7JM",
+              "url": "https://farm4.staticflickr.com/3784/13289771453_23b1bda1aa_m.jpg",
+              "width": 500,
+              "height": 341
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350443,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Empiricism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The idea that we can only be certain of knowledge acquired through our senses. In other words, reality is produced by experience.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ztXZsqpC4pNGpPfQ",
+              "url": "https://o.quizlet.com/4bYsWsy5jRkHoM4wsk0xKg_m.jpg",
+              "width": 300,
+              "height": 285
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350444,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Rationalism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The epistemological position that we can have knowledge of things without having experienced them.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "YqwTdaSPWqCKDjMa",
+              "url": "https://o.quizlet.com/BRUQx6At6RHV-vQcdKkKTQ_m.jpg",
+              "width": 347,
+              "height": 346
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350445,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1549995063,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cosmogony",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The study of the origin of the world. (More scientific.)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6BVwpRNCFfYCRMBB",
+              "url": "https://farm5.staticflickr.com/4016/4253934347_a80a1c52d6_m.jpg",
+              "width": 512,
+              "height": 341
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350446,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 46,
+      "creatorId": 305811011,
+      "timestamp": 1549995063,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cosmology",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The study of the nature & order of the world. (More metaphysical and spiritual.)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "VbFE3QXYZua4UWwT",
+              "url": "https://o.quizlet.com/C0TwqnJ7UWWBnkXQSBq6AA_m.jpg",
+              "width": 887,
+              "height": 665
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350447,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 47,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Microcosm",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The idea that a person is a reflection of the whole world.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wCCaSpJb57GhEsu2",
+              "url": "https://o.quizlet.com/i/Of77iuV-9OZhsyql81zPNA_m.jpg",
+              "width": 300,
+              "height": 247
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350448,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 48,
+      "creatorId": 305811011,
+      "timestamp": 1549993852,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Macrocosm",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The idea that the whole world is a reflection of a person.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6e7NuqbHC8AkG7d3",
+              "url": "https://o.quizlet.com/d4NZR73L-R9Uegk4ni137Q_m.jpg",
+              "width": 468,
+              "height": 381
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944181350449,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792124048,
+      "type": 2,
+      "rank": 49,
+      "creatorId": 305811011,
+      "timestamp": 1581014044,
+      "lastModified": 1681274587,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Reincarnation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "In Hinduism and Buddhism, the process by which a soul is reborn continuously until it achieves perfect understanding",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Sbz6fkd2uFvxS87n",
+              "url": "https://o.quizlet.com/kfbEYsjqsdT97UFyXkUVqw_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

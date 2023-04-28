@@ -1,0 +1,832 @@
+{
+  "set": {
+    "id": 792123907,
+    "timestamp": 1681274516,
+    "lastModified": 1681274520,
+    "publishedTimestamp": 1681274520,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Egyptian History",
+    "description": "",
+    "numTerms": 18,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792123907/egyptian-history-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762944106926082,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1571829243,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mediterranean Sea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "This body of Water separates Europe and Africa",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "VMpugUH63c8qM8pc",
+              "url": "https://o.quizlet.com/6eihD1jNb4l7UhzKyecSYQ_m.jpg",
+              "width": 804,
+              "height": 407
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926083,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1571829327,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Nile River",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The longest river in the world in which early kingdoms in Egypt were centered around. It flows northward into the Mediterranean Sea.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zWKCJWkyYRN7aHyj",
+              "url": "https://o.quizlet.com/dl8sxVR7UuCUtD4lOinJxQ_m.jpg",
+              "width": 1104,
+              "height": 1380
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926084,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1571829344,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "vegetation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "all the plants and trees in an area",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KhP2XE9BySCHkqkb",
+              "url": "https://o.quizlet.com/i/bFJnyu7eZ84v3NDMe1A9lg_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926085,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1571829370,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pharoah",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a king of ancient Egypt, considered a god as well as a political leader",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KFyvCDfVC5ESUYM8",
+              "url": "https://o.quizlet.com/ZvDpq2.aANlo7IZBGlJBZQ_m.jpg",
+              "width": 197,
+              "height": 256
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926086,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1571829433,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ramses II",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "king of Egypt between 1304 and 1237 BC who built many monuments",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6zQkecFkMmK3KPUs",
+              "url": "https://o.quizlet.com/i/HGLvUTapzU-8fGUE2rqw6A_m.jpg",
+              "width": 240,
+              "height": 192
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926087,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1571829487,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Afterlife in Egypt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "was a carefree continuation of earthly existence",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "adQy3fRjfbVWJkXE",
+              "url": "https://o.quizlet.com/QAwIW4W0O-rB7LiifJaS2Q_m.jpg",
+              "width": 500,
+              "height": 250
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926088,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1571829538,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Heiroglyphs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A writing system in Egypt that used pictures and other written symbols that stand for ideas, things, or sounds",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "RUvP7JMW5RGtDeBb",
+              "url": "https://farm4.staticflickr.com/3151/2711348633_77dfb8cece_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926089,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1571829593,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "social class system",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hierarchy, priests/kings at the top, middle class merchants, peasants farmers bottom",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Fyqb5AajnRThkvzH",
+              "url": "https://o.quizlet.com/i/EeX3MLDvExtQYoDTb4iKeQ_m.jpg",
+              "width": 255,
+              "height": 198
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926090,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1571829613,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "noble",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a person of high rank by birth or title",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926091,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1571829641,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "peasant",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a member of a class of persons who are small farmers or farm laborers of low social rank",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qyq8pV46v53hc5FD",
+              "url": "https://farm3.staticflickr.com/2774/4459638202_6981732b71_m.jpg",
+              "width": 500,
+              "height": 338
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926092,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1571829653,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "slave",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a person who is the legal property of another and is forced to obey them.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926093,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1571829703,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fact",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A statement that can be proved through measurement.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "kXyEmjuBb8vW3adT",
+              "url": "https://farm3.staticflickr.com/2143/3532970936_51cd7db408_m.jpg",
+              "width": 386,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926094,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1571829811,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "opinion",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an idea that may be formed from evidence but has not been confirmed by evidence",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DwUK7JbeAC3U5bxk",
+              "url": "https://farm1.staticflickr.com/232/454095696_0ed25986cd_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926095,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1635256234,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 69600735822,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Upper Egypt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 69600735823,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the southern part of ancient Egypt",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sqdu6QGVTzzBNpz7",
+              "url": "https://o.quizlet.com/-Yz1uqZySlEdPHBBoEsqpA_m.png",
+              "width": 430,
+              "height": 440
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926096,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1635256246,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 69600746826,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lower Egypt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 69600746827,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The northern part of ancient Egypt",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "H6h3E9yQkUEucyqa",
+              "url": "https://o.quizlet.com/PDgABmTGo8qVQRhkubv1MA_m.jpg",
+              "width": 492,
+              "height": 663
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926097,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1635256277,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 69600773247,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "canal",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 69600773248,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an artificial waterway",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "JvRGV9R4uwCUjNRR",
+              "url": "https://farm4.staticflickr.com/3681/10150880434_510af02252_m.jpg",
+              "width": 500,
+              "height": 337
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926098,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1635256308,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 69600803145,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "irrigation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 69600803146,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A way of supplying water to an area of land",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FA9VzXMtsdSBTYzy",
+              "url": "https://o.quizlet.com/1fe43Qgf-RfZPHEulhiBIg_m.png",
+              "width": 288,
+              "height": 216
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762944106926099,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792123907,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1635258546,
+      "lastModified": 1681274516,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 69602915367,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "silt",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 69602915368,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fine soil found on river bottoms",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4S5DBZqE9upncwPa",
+              "url": "https://farm2.staticflickr.com/1401/533319531_311e3b1e2b_m.jpg",
+              "width": 374,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "set": {
+    "id": 792130869,
+    "timestamp": 1681278003,
+    "lastModified": 1681278016,
+    "publishedTimestamp": 1681278016,
+    "wordLang": "en",
+    "defLang": "photo",
+    "title": "Video Game Trivia",
+    "description": "",
+    "numTerms": 18,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792130869/video-game-trivia-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762947763343360,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mario",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KkU4er5au8BSYWb4",
+              "url": "https://farm3.staticflickr.com/2249/2439800410_74c472104d_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343361,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Luigi",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZqKdmtcCHaz4EDbE",
+              "url": "https://farm8.staticflickr.com/7269/7649587902_0e41034763_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343362,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Princess Peach",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ceZwHsVvct4QEYMX",
+              "url": "https://farm8.staticflickr.com/7112/7661103888_b1e5140025_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343363,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Ninja Turtles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZkFSyp2F8XTFeYkz",
+              "url": "https://o.quizlet.com/K6PKAs6tze7h8VNES6UVsw_m.jpg",
+              "width": 480,
+              "height": 360
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343364,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pac Man",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "jPVZejsQsbPz5VWR",
+              "url": "https://o.quizlet.com/AuVUrmkw.djS4ek9hVSKRA_m.png",
+              "width": 400,
+              "height": 400
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343365,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sonic the Hedgehog",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yH5xj7UdnkWBeQ6H",
+              "url": "https://o.quizlet.com/FSrSZp5Jl7U4tCsYf0qu0w_m.png",
+              "width": 939,
+              "height": 1024
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343366,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pikachu",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "xV9vXk8JHvtKKvTD",
+              "url": "https://o.quizlet.com/6vUdVehnIHbDpVo8EL5U0g_m.gif",
+              "width": 320,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343367,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Yoshi",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Kq2zZk7cjxuwKfkU",
+              "url": "https://farm6.staticflickr.com/5076/5908372136_6b618ffa27_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343368,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Donkey Kong",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GbEh3j4jdecYWQv2",
+              "url": "https://farm8.staticflickr.com/7117/7667874088_2f677acf06_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343370,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Link",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "aCrgBbCxm8tVtSMf",
+              "url": "https://farm1.staticflickr.com/230/459117220_0cac32559e_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343372,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Kirby",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "AbUcWKstkCcXQvBf",
+              "url": "https://farm8.staticflickr.com/7069/6939208305_58852c0eb0_m.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343373,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Steve",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wswaysmrPVvQp9tK",
+              "url": "https://o.quizlet.com/JHGZqur2wv3iqI1KIT0HVw_m.png",
+              "width": 140,
+              "height": 175
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343374,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Enderman",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ctj7XmZ3VMXvYRfQ",
+              "url": "https://o.quizlet.com/KvLBMHX3hrFHvRRiylqvPw_m.png",
+              "width": 165,
+              "height": 307
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343375,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Enderdragon",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ykMAnkthbm7StyJ4",
+              "url": "https://o.quizlet.com/KRWSXIG8BCXN0bPiGoHt8A_m.png",
+              "width": 197,
+              "height": 176
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343376,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "King Dedede",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "73aBgyrBcEfGxM2c",
+              "url": "https://o.quizlet.com/nb2pGqF8AUhSmVJSMyFlzQ_m.jpg",
+              "width": 225,
+              "height": 225
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343378,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sack Boy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wvhEZbq27GSgJ2p4",
+              "url": "https://farm4.staticflickr.com/3638/3409293336_f03745c1c8_m.jpg",
+              "width": 1600,
+              "height": 1200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343379,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1507848523,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Shadow the Hedgehog",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "J2YyhTdXXdpTN7ss",
+              "url": "https://farm1.staticflickr.com/12/14879493_802a583315_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762947763343380,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792130869,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1507848538,
+      "lastModified": 1681278003,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Toad",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "photo",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9USR6gqgGMp7yadm",
+              "url": "https://farm4.staticflickr.com/3422/3257134149_be8f87482a_m.jpg",
+              "width": 500,
+              "height": 270
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

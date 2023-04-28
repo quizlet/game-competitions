@@ -1,0 +1,1812 @@
+{
+  "set": {
+    "id": 792119481,
+    "timestamp": 1681272547,
+    "lastModified": 1681272551,
+    "publishedTimestamp": 1681272551,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Chemistry",
+    "description": "",
+    "numTerms": 39,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792119481/chemistry-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762942042308608,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1432844349,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "element",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "substance that CANNOT be chemically broken down into simpler substances",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "nQPYnVjDHFZ3Jc88",
+              "url": "https://o.quizlet.com/dfSE8Ea3IFsbnrBOumiUaQ_m.jpg",
+              "width": 120,
+              "height": 132
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308609,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1432842710,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "atom",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "smallest part of an element that can be identified as that element",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GKYwr97YtESJa2As",
+              "url": "https://o.quizlet.com/3Ofu96vFKYOYmHOLvLISow_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308610,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1432842912,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "nucleus",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "center, or core, of an atom (where the protons and neutrons are located)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "EAtpcMTfg5zPCSXn",
+              "url": "https://o.quizlet.com/i/_ncuYRrMy-eh6GYyPHiX5g_m.jpg",
+              "width": 512,
+              "height": 320
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308611,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1432842882,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "proton",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "particle that has a positive charge - located in the nucleus of an atom. You can figure out the number of protons by looking at the atomic number of an element.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gDkfHm6qVmpZdvfg",
+              "url": "https://o.quizlet.com/i/caEmgaGWRE46QX7uB3mRIg_m.jpg",
+              "width": 240,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308612,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1432842967,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "neutron",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "particle that has no charge - located in the nucleus of an atom. You can figure out the number of neutrons by SUBTRACTING the atomic Mass minus the atomic number.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gDkfHm6qVmpZdvfg",
+              "url": "https://o.quizlet.com/i/caEmgaGWRE46QX7uB3mRIg_m.jpg",
+              "width": 240,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308613,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1432842882,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "electron",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "particle that has a negative charge - located in rings outside the nucleus of an atom. You can figure out the number of electrons by looking at the atomic number of an element.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "gDkfHm6qVmpZdvfg",
+              "url": "https://o.quizlet.com/i/caEmgaGWRE46QX7uB3mRIg_m.jpg",
+              "width": 240,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308614,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1432843020,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "atomic number",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "number of protons in the nucleus of an atom. This is the same number as the number of electrons",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "P878cMwpyEccgWrZ",
+              "url": "https://o.quizlet.com/54POX6fcimdWOcTAZnkguA_m.png",
+              "width": 404,
+              "height": 220
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308615,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1432843067,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "atomic mass",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "total mass of the protons and neutrons in an atom",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "P878cMwpyEccgWrZ",
+              "url": "https://o.quizlet.com/54POX6fcimdWOcTAZnkguA_m.png",
+              "width": 404,
+              "height": 220
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308616,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1432843125,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "energy level",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "place in an electron cloud where an electron is most likely to be found - rings. Remember, 2-8-18-32.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "UfHDsACMgf5ESUKH",
+              "url": "https://o.quizlet.com/i/YlmjPi8ecraBUNjcvpdfhQ_m.jpg",
+              "width": 217,
+              "height": 216
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308617,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1432843251,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "metal",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "element that has the property of shiny luster, ductility, and malleability",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Z4jphDxrYvQmU7mD",
+              "url": "https://o.quizlet.com/i/m2yxkoHWld8yMikYflycsQ_m.jpg",
+              "width": 200,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308618,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1432843225,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "luster",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the way a material reflects light",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "acf8FRatQbeWRrpq",
+              "url": "https://o.quizlet.com/HsfXdHWhdG7KFekzuSWjeA_m.jpg",
+              "width": 480,
+              "height": 330
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308619,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1432843225,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "malleable",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "able to be hammered into different shapes",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wZx7bHaEmNNBW27K",
+              "url": "https://o.quizlet.com/sMAu7C3yWfBu9nk6OBWL7g_m.jpg",
+              "width": 350,
+              "height": 445
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308620,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1432843214,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ductile",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "able to be drawn into thin wires",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bmrzrsqn7GCt4j4u",
+              "url": "https://o.quizlet.com/K.yojoDQrzB05FxUMCYKqw_m.jpg",
+              "width": 176,
+              "height": 286
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308621,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1432843296,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "nonmetal",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "element that lacks most of the properties of a metal, is not shiny, does not conduct electricity or heat well, is not malleable so it is called brittle or breakable.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "DKDmYhUMTfwKDcTx",
+              "url": "https://o.quizlet.com/p-celA1UeqUmgAJrN.RteQ_m.jpg",
+              "width": 400,
+              "height": 219
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308622,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1432843339,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "halogens",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "elements that make up Group 17 in the periodic table",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5TzTg3eRa7RcEZr7",
+              "url": "https://o.quizlet.com/i/-t-FED0EQqWymGiBR3d8rw_m.jpg",
+              "width": 240,
+              "height": 135
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308623,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1432843339,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "noble gases",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "elements that make up Group 18 in the periodic table",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2nKR8t8M5XDpdeHH",
+              "url": "https://o.quizlet.com/i/Aw_vr-zOKZn3MYLTjvLGtw_m.jpg",
+              "width": 240,
+              "height": 149
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308624,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1432843391,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "matter",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "anything that has mass and takes up space",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZQAksguTqTPuB4GD",
+              "url": "https://o.quizlet.com/M32NqADFlxbzJUov8zRsJg_m.png",
+              "width": 505,
+              "height": 329
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308625,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1432843405,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "properties",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "characteristics used to describe an object",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HhuVXwVnjuhrRref",
+              "url": "https://o.quizlet.com/oMbs.9GgWNSx.Ifq-bvTYw_m.jpg",
+              "width": 248,
+              "height": 203
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308626,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1432843497,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "state of matter",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "any of the four physical forms of matter",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "M8kAaMQkuY6U7vCM",
+              "url": "https://o.quizlet.com/KuJVlxyjjLE3BzWvq2537A_m.jpg",
+              "width": 720,
+              "height": 540
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308627,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1432843474,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "solid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "state of matter with a definite shape and volume",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FJZZXjXNRWSx9M3H",
+              "url": "https://o.quizlet.com/0JB4t67pwm011FqLhB.s.g_m.jpg",
+              "width": 627,
+              "height": 529
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308628,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1432843463,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "liquid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "state of matter with a definite volume but no definite shape",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FkacmDJse92nBSEK",
+              "url": "https://o.quizlet.com/.5U.yRus5Bt6vKBHDyRL4w_m.jpg",
+              "width": 590,
+              "height": 535
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308629,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1432843453,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gas",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "state of matter that has no definite shape or volume",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "svc2z2jDCgvVMSZT",
+              "url": "https://o.quizlet.com/.XlOt5n2fcrQbEO5vTsHIQ_m.png",
+              "width": 212,
+              "height": 200
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308630,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1432843510,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "plasma",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "state of matter made up of electrically charged particles - needs high temperatures and high pressure",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "bBeQzK4uYS554hAq",
+              "url": "https://o.quizlet.com/sNBzfV.aDO3J5Q2dCUkvqQ_m.jpg",
+              "width": 370,
+              "height": 364
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308631,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1432843540,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chemical formula",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "way of writing the name of a compound using chemical symbols",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "wrxdnegVAz9mSGrb",
+              "url": "https://o.quizlet.com/1hYpHodEmJKVDNg-c6oJBw_m.jpg",
+              "width": 423,
+              "height": 283
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308632,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1432843551,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "subscript",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "number written to the lower right of a chemical symbol in a chemical formula",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dA6442PJkUTnyZMn",
+              "url": "https://o.quizlet.com/ZbiBN3c2QMdn8ul4UzIhFQ_m.jpg",
+              "width": 537,
+              "height": 217
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308633,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1432843598,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chemical equation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "statement in which chemical formulas are used to describe a chemical reaction",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "JFAgmvdH8UQBYFzg",
+              "url": "https://o.quizlet.com/i/a8_URl1aD8TB-50EAPn5Yg_m.jpg",
+              "width": 240,
+              "height": 99
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308634,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1432843598,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "coefficient",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "number that shows how many molecules of a substance are involved in a chemical reaction",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eTGkjpyrASsHdNpn",
+              "url": "https://o.quizlet.com/j5GdhnNADP9rXi9pGFZ2.w_m.png",
+              "width": 363,
+              "height": 266
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308635,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1432843641,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chemical reaction",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "process in which new substances with new chemical and physical properties are formed",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eTGkjpyrASsHdNpn",
+              "url": "https://o.quizlet.com/j5GdhnNADP9rXi9pGFZ2.w_m.png",
+              "width": 363,
+              "height": 266
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308636,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1432843641,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "reactant",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "substance that is changed in a chemical reaction",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eTGkjpyrASsHdNpn",
+              "url": "https://o.quizlet.com/j5GdhnNADP9rXi9pGFZ2.w_m.png",
+              "width": 363,
+              "height": 266
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308637,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1432843654,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "product",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "substance that is formed in a chemical reaction",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eTGkjpyrASsHdNpn",
+              "url": "https://o.quizlet.com/j5GdhnNADP9rXi9pGFZ2.w_m.png",
+              "width": 363,
+              "height": 266
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308638,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1432844055,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "molecule",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "smallest part of a substance that has all the properties of that substance - more than one element, like hydrogen and oxygen make water",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "K3rzXzwMhaPEkDBB",
+              "url": "https://o.quizlet.com/19bh2xaRzKvl3rpKSluCvg_m.jpg",
+              "width": 324,
+              "height": 348
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308639,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1432843719,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chemical bond",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "force of attraction that holds atoms together",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "EmUjPCwdmZBSPSSN",
+              "url": "https://o.quizlet.com/zJ.CP9BcThXLVP0wcL3tkQ_m.png",
+              "width": 262,
+              "height": 180
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308640,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1432843799,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "freezing",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change from a liquid to a solid",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "95Nk5Uxx8D8djFZH",
+              "url": "https://farm1.staticflickr.com/55/177270531_1432ccbebb_m.jpg",
+              "width": 180,
+              "height": 240
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308641,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1432843782,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "melting",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change from a solid to a liquid",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hfqTDmTHm63VbAqv",
+              "url": "https://o.quizlet.com/q54bOwqaab3EmoptqW9A7g_m.jpg",
+              "width": 275,
+              "height": 223
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308642,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1432843782,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "evaporation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change from a liquid to a gas at the surface of the liquid",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "C5TavhQngKTdzWKu",
+              "url": "https://o.quizlet.com/TXuBwOezkNvtLifvh5zPiA_m.jpg",
+              "width": 490,
+              "height": 304
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308643,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1432843768,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "condensation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change from a gas to a liquid",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sHs758B7qXyvaG7U",
+              "url": "https://farm6.staticflickr.com/5063/5760082564_cefed762b3_m.jpg",
+              "width": 500,
+              "height": 332
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308644,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1432843768,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sublimation",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change from a solid directly to a gas",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5F7d6YEQSXVZVCrn",
+              "url": "https://farm5.staticflickr.com/4044/4490399783_12c9d72a96_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308645,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1432843932,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "physical change",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change that does not produce new substances - melting an ice cube or ripping paper. You can get the ice back and the paper is still paper.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "254kGpdPZpsr96Qd",
+              "url": "https://o.quizlet.com/i/C5LFQm28rEMkwEW3hrIX_Q_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942042308646,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119481,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1432843886,
+      "lastModified": 1681272547,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "chemical change:",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "change that produces new substances - burning wood to make ashes or mixing mentos and coke. You can't get the wood or the mentos back.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eb89ez8fpYntqJ5Q",
+              "url": "https://o.quizlet.com/EdupT6uuuoQCBmgUllYYxA_m.png",
+              "width": 719,
+              "height": 539
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

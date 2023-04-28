@@ -1,0 +1,941 @@
+{
+  "set": {
+    "id": 790827848,
+    "timestamp": 1680823147,
+    "lastModified": 1680823164,
+    "publishedTimestamp": 1680823164,
+    "wordLang": "ja",
+    "defLang": "en",
+    "title": "Japanese Foods",
+    "description": "Japanese traditional foods in romaji",
+    "numTerms": 21,
+    "hasImages": true,
+    "hasDiagrams": false
+  },
+  "studiableItem": [
+    {
+      "id": 1762470812196864,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1488561408,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3054\u306f\u3093",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "csMtyFJtuNTrMP7n",
+              "url": "https://farm1.staticflickr.com/1/374797_4d0272f14f_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196865,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1488561408,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u304a\u306b\u304e\u308a",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "riceball",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5BJrrH2vAR9gkSDq",
+              "url": "https://farm1.staticflickr.com/152/363559653_7542d97c5a_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196866,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1488561408,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u304a\u3079\u3093\u3068\u3046",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "box lunch",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "uh2byvGqfXHtpEHm",
+              "url": "https://farm5.staticflickr.com/4002/4542645259_e1d3892473_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196867,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1488561396,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3059\u3057",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sushi",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yVU4c3VmdVdkcEG6",
+              "url": "https://farm9.staticflickr.com/8480/8176254659_3fb3712dc1_m.jpg",
+              "width": 500,
+              "height": 334
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196868,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1488561396,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3055\u3057\u307f",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sliced raw fish",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "u8GfbqkJAcVtZUMR",
+              "url": "https://farm3.staticflickr.com/2774/4017681760_257fb2fff1_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196869,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1488561383,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3046\u3069\u3093",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "thick white noodles",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "PMNVcm47z3gGHGGT",
+              "url": "https://farm5.staticflickr.com/4003/4583722339_f100a38770_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196871,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1488561383,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3084\u304d\u305d\u3070",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "fried noodles",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "nkUUmwksuwEcDHwd",
+              "url": "https://farm3.staticflickr.com/2206/2068029559_97381d90b9_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196872,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1488561372,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3084\u304d\u3068\u308a",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "roasted chicken and vegetable kebab",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QpWfGUHq85YvZGfa",
+              "url": "https://farm3.staticflickr.com/2691/4508352936_3fed74344b_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196873,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1488561372,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3066\u3093\u3077\u3089",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "battered and deep-fried seafood and vegetables",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "B3PswPA5urZMSfrf",
+              "url": "https://farm2.staticflickr.com/1069/597352968_968cadb560_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196874,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1488561357,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u304a\u3061\u3083",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "green tea",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "HQH5EtmrUz2xtApD",
+              "url": "https://farm8.staticflickr.com/7308/13240359643_d8e5637546_m.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196875,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1488561357,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30e9\u30fc\u30e1\u30f3",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chinese noodle soup",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "zBaTVnPjJamU9eXt",
+              "url": "https://farm1.staticflickr.com/64/166432562_3353335ae6_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196876,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1488561357,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u307f\u305d\u3057\u308d",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "miso soup",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Z4d2nDEaYcpERz8G",
+              "url": "https://o.quizlet.com/EoOg.PRk0jakuHkR1awxsQ_m.jpg",
+              "width": 300,
+              "height": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196877,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1488561343,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "curry and rice",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eX4MCFVzcREWhgen",
+              "url": "https://farm1.staticflickr.com/166/329598959_00eff890de_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196878,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1488561343,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u30b5\u30e9\u30c0",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "salad",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "JrRzfxYVT7mh26VD",
+              "url": "https://o.quizlet.com/0YQ5Wvp8U97qTEtkYNvURQ_m.jpg",
+              "width": 720,
+              "height": 540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196879,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1488561484,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u304b\u3089\u3044",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "spicy",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "KrpnrxhNaq3qDET3",
+              "url": "https://o.quizlet.com/EN1w94WLE307I-SI5gXU9Q_m.png",
+              "width": 194,
+              "height": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196880,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1488561484,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3059\u3071\u3044",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "delicious",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dAeJAYRw5jEgvvkj",
+              "url": "https://o.quizlet.com/UmZSbCZ3.U0SAFnSHz9VrQ_m.jpg",
+              "width": 336,
+              "height": 394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196881,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1488561513,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u306b\u304c\u3044",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "bitter",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "eQ2fyTWTUbQwdssH",
+              "url": "https://o.quizlet.com/WF9lf0QoUl217RkaAtbOQQ_m.jpg",
+              "width": 299,
+              "height": 169
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196882,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1488561513,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u307e\u305a\u3044",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tastes bad",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Krz7YpBaKUfupBCS",
+              "url": "https://o.quizlet.com/VKntvRNl7Q.oASsXRlL9yQ_m.jpg",
+              "width": 409,
+              "height": 378
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196883,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1488561284,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3042\u3055\u3054\u306f\u3093",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "breakfast",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "brHQda7MMxhakKMR",
+              "url": "https://farm4.staticflickr.com/3260/2894738978_ca0d3afd07_m.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196884,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1488561302,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3072\u308b\u3054\u306f\u3093",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "lunch",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "XHBhq426sqbaKAPd",
+              "url": "https://o.quizlet.com/wZyTyi5ROXZ3pOxInzhlSg_m.jpg",
+              "width": 720,
+              "height": 540
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762470812196885,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790827848,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1488561284,
+      "lastModified": 1680823147,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u3070\u3093\u3054\u306f\u3093",
+              "languageCode": "ja",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dinner",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "uBdvDn5dDmZPrP6A",
+              "url": "https://o.quizlet.com/AlwRco..withUcNXhIjdaQ_m.jpg",
+              "width": 720,
+              "height": 540
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

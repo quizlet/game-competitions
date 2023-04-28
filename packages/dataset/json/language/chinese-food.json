@@ -1,0 +1,678 @@
+{
+  "set": {
+    "id": 790828338,
+    "timestamp": 1680823413,
+    "lastModified": 1680823417,
+    "publishedTimestamp": 1680823417,
+    "wordLang": "en",
+    "defLang": "zh-CN",
+    "title": "Chinese food",
+    "description": "",
+    "numTerms": 15,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/790828338/chinese-food-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762471091171331,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1678226944,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Chinese food",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u4e2d\u9910 \uff08zh\u014dng c\u0101n\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GrWw3QbQxxY3kSCq",
+              "url": "https://o.quizlet.com/.f9vlr46qg7eS6Qs0fhw8Q_m.jpg",
+              "width": 300,
+              "height": 441
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171332,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1679955185,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "spring rolls",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u6625\u5377\uff08ch\u016bn ju\u01cen)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "etxSdnJdgVvNbzp8",
+              "url": "https://o.quizlet.com/v.9m5MTKa3acfI9Jm2RmZg_m.jpg",
+              "width": 600,
+              "height": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171333,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1678069204,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dumplings",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u997a\u5b50\uff08ji\u01ceo zi\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5ffqsrqYthN9WfM6",
+              "url": "https://o.quizlet.com/RELB9ewiL0dOpD4au3Gamg_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171334,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1679955185,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "steamed buns \uff08\uff08with meat stuffing filling\uff09",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u5305\u5b50\uff08b\u0101o zi\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Mub3BtRC3rPZwXFa",
+              "url": "https://o.quizlet.com/0RlOXPOXbFk9ZW4UQTKHYQ_m.png",
+              "width": 259,
+              "height": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171335,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1678069287,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7c73\u996d (m\u01d0 f\u00e0n)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "csMtyFJtuNTrMP7n",
+              "url": "https://farm1.staticflickr.com/1/374797_4d0272f14f_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171336,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1678069375,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "noodles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u9762\u6761\uff08mi\u00e0n ti\u00e1o\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sCZzeXsTGSHB8Nbn",
+              "url": "https://farm3.staticflickr.com/2370/2063594993_83d24b735a_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171337,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1679955185,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "stir-fried rice",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7092\u996d\uff08ch\u01ceo f\u00e0n\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "meuJqQr2sam6HVAY",
+              "url": "https://farm3.staticflickr.com/2562/3844931332_cfd2908396_m.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171338,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1679955185,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "stir-fried noodles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7092\u9762\uff08ch\u01ceo mi\u00e0n\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "QbhG7QYRsZ9E35UA",
+              "url": "https://farm9.staticflickr.com/8165/7528630024_641c0feb3e_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171339,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1679994695,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "black tea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7ea2\u8336 (h\u00f3ng ch\u00e1)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "8Jcn4sYK4Chbj9YA",
+              "url": "https://o.quizlet.com/s6woLZB-Q6HQ.3HkeySfVg_m.jpg",
+              "width": 274,
+              "height": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171340,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1679994711,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "green tea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7eff\u8336 (l\u01dc ch\u00e1)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hSUQ4mZe9SCVp4Jn",
+              "url": "https://o.quizlet.com/3qTglRWXOhKDHPp6A8wa1Q_m.jpg",
+              "width": 272,
+              "height": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171341,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1679994740,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "moon cakes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u6708\u997c (yu\u00e8 b\u01d0ng)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "6bbRGZcB3gTKZcEQ",
+              "url": "https://o.quizlet.com/qytG7aPn2arwb3Vod1TB7Q_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171342,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1679994771,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "steamed bread",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u9992\u5934 (m\u00e1ntou)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "v3rxQgQ2ajfpDYXw",
+              "url": "https://o.quizlet.com/MCb9pUV22THC7vMfbWhdPQ_m.jpg",
+              "width": 750,
+              "height": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171343,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1679994837,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hot pot",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u706b\u9505 (hu\u01d2 gu\u014d)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cNcrAksdZNWRmxhC",
+              "url": "https://o.quizlet.com/GEE0S82a8YY8caUl1FBnNg_m.jpg",
+              "width": 400,
+              "height": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171344,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1679995072,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rice ball wrapped in bamboo leaves",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u7cbd\u5b50(z\u00f2ngzi)",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZSZWqs3mjY24gKZJ",
+              "url": "https://o.quizlet.com/oDU7.XwJcIvWGDessCVr.w_m.jpg",
+              "width": 259,
+              "height": 195
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1762471091171345,
+      "studiableContainerType": 1,
+      "studiableContainerId": 790828338,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1679995448,
+      "lastModified": 1680823413,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sweet dumplings",
+              "languageCode": "en",
+              "richText": null
+            }
+          ]
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "\u6c64\u5706 \uff08t\u0101ng yu\u00e1n\uff09",
+              "languageCode": "zh-CN",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "jR9p8ZRqx5NgvRyS",
+              "url": "https://o.quizlet.com/cEHZYTMnfl5.VR97ap..lA_m.jpg",
+              "width": 300,
+              "height": 300
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

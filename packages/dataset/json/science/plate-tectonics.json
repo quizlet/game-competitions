@@ -1,0 +1,1494 @@
+{
+  "set": {
+    "id": 792119761,
+    "timestamp": 1681272660,
+    "lastModified": 1681272663,
+    "publishedTimestamp": 1681272663,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Plate Tectonics",
+    "description": "For the maps, you should know the layers of the Earth and be able to name all the major tectonic plates and where they are, as well as plate boundary movement.",
+    "numTerms": 33,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792119761/plate-tectonics-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762942160777220,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Plate Tectonics",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The theory that the earth is broken into plates and are in motion due to convection currents in the asthenosphere (upper mantle)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "m5MVYF54S9ZGDGt6",
+              "url": "https://o.quizlet.com/i/orv_raHaPaqU5WI_aUaEQw_m.jpg",
+              "width": 240,
+              "height": 181
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777221,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Alfred Wegener",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Proposed the continental drift theory in the 1900s",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "FWurH3TAmXnAfd57",
+              "url": "https://o.quizlet.com/rj6duArNV2YuaMVEUVmD5Q_m.jpg",
+              "width": 140,
+              "height": 153
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777222,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1605650456,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Pangaea",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "term for the super continent which contained all the plates together",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "UFCYVjv7yZQ2JB39",
+              "url": "https://o.quizlet.com/7IBW863vmkmdGYZEG.7JUA_m.png",
+              "width": 426,
+              "height": 292
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777223,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Crust",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The thin and solid outermost layer of the Earth above the mantle",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "XW7xC6C7aUqPUyNX",
+              "url": "https://o.quizlet.com/iNCJWEvrT-M5buuJOCZ91A_m.jpg",
+              "width": 366,
+              "height": 281
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777224,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lithosphere",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The solid, outer layer of the Earth that consists of the the crust and the rigid upper part of the mantle",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "vApTEE6JPETNhZPh",
+              "url": "https://o.quizlet.com/i/Xj13lZr5pIMFB8tM4ISUkg_m.jpg",
+              "width": 240,
+              "height": 195
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777225,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Asthenosphere",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The soft layer of the mantle on which the tectonic plates move",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "3VcMaHt6A2Q2A2PU",
+              "url": "https://o.quizlet.com/i/YF-GF0pQmnyK1ZfilXqjWw_m.jpg",
+              "width": 240,
+              "height": 191
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777226,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Transform Boundary",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The boundary between tectonic plates that are sliding past each other horizontally. Can cause earthquakes.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CuQJJqx6NjbQUmJE",
+              "url": "https://o.quizlet.com/o.-euv3lY7VblRLRMHb76Q_m.jpg",
+              "width": 475,
+              "height": 279
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777227,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Continental Drift",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The hypothesis that states that the continents once formed a single landmass, broke up, and drifted to their present locations",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CrQfeZYEJ3hXtPxe",
+              "url": "https://o.quizlet.com/i/oWQlurj_aOXhZwudCfCCRw_m.jpg",
+              "width": 119,
+              "height": 147
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777228,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1479414495,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sea-floor spreading",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The process by which new oceanic crust forms as magma rises towards the surface and solidifies at divergeny boundaries. Oceanic-Oceanic divergence",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "4K9DnCxa3GN4GudZ",
+              "url": "https://o.quizlet.com/QLiF3uElhn5JGeEjoXftcg_m.jpg",
+              "width": 350,
+              "height": 179
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777229,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Convergent Boundary",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The boundary formed by the collision of two plates",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "NqTuCTD4tmAVzZMJ",
+              "url": "https://o.quizlet.com/i/LV8tfehLujwCZIhZijFAmg_m.jpg",
+              "width": 157,
+              "height": 102
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777230,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Divergent Boundary",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The boundary between two tectonic plates that are moving away from each other",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2vjSpBYk2v9SW7g4",
+              "url": "https://o.quizlet.com/zWzqYawhd2PcezAeU8ZQMg_m.jpg",
+              "width": 959,
+              "height": 839
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777231,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1605650514,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "rift valley",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "long, narrow depression formed at divergent boundaries, continental-continental",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "b4RUeX9GhPvaE9BE",
+              "url": "https://o.quizlet.com/mHD.T4nPwi2ABByf6ozMjg_m.jpg",
+              "width": 269,
+              "height": 187
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777232,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "subduction",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "process in which two plates collide and the denser ocean plate descends below the other",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "WTpAtvs3JxRN4zMp",
+              "url": "https://o.quizlet.com/i/polmraxs2iHh-yCEsW5R3g_m.jpg",
+              "width": 137,
+              "height": 73
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777233,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1479415542,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "convection current",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a current caused by the rising of heated fluid and sinking of cooled fluid believed to drive plate movement in the mantle of the earth",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "2BQ7dhFYWwRMd797",
+              "url": "https://o.quizlet.com/i/zfGE4dVmpzANaDmaY7kvCQ_m.jpg",
+              "width": 116,
+              "height": 126
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777234,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1605650562,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "trench",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "extremely deep areas in the ocean that are created by an oceanic subducting plate",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qJzV7W99tJrVmfsA",
+              "url": "https://o.quizlet.com/5lOqhOxpEU87rElTY.bvtw_m.jpg",
+              "width": 321,
+              "height": 279
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777235,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "ocean basin",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "areas that are below sea level",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "VXsCMbHCV8R2X5GH",
+              "url": "https://o.quizlet.com/qfPfZih0hBLrx7brrJDDOg_m.png",
+              "width": 400,
+              "height": 274
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777236,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "hot spot",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an area in the mantle that is super heated and melts through the crust (like a blow-torch)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "GMZrJSVq5UqG9qFh",
+              "url": "https://o.quizlet.com/MjvZ94AoOFBEG6rGTsBY-Q_m.png",
+              "width": 378,
+              "height": 305
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777237,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mid-ocean ridge",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an underwater mountain range made at divergent plate boundaries Oceanic-Oceanic",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "muvqkhqBD9WPgDpd",
+              "url": "https://o.quizlet.com/i/WXBewrevwheWdgG0D1sk1A_m.jpg",
+              "width": 475,
+              "height": 267
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777238,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dormant volcano",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Inactive, sleeping",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "XhGuDpGxe26FGgQf",
+              "url": "https://farm1.staticflickr.com/33/43627733_69e97d65c8_m.jpg",
+              "width": 375,
+              "height": 500
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777239,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "extinct volcano",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A volcano that has not erupted for thousands of years and probably will not erupt again.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "7RuA7Vy7ZxTBC5cA",
+              "url": "https://o.quizlet.com/FljibSxXpEAFKPZ-6KzPcw_m.jpg",
+              "width": 1024,
+              "height": 683
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777240,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "seismographs",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "measures and records earthquake magnitude based on the energy released in an earthquake.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dWECV9a36zdPK9n9",
+              "url": "https://farm4.staticflickr.com/3325/3666223994_6d57cd2146_m.jpg",
+              "width": 800,
+              "height": 688
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777241,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "tsunami",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A giant wave usually caused by an earthquake beneath the ocean floor.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "3xWfYW5Tbm6Jre3j",
+              "url": "https://o.quizlet.com/ZF0TIWLyUXwmDKjd2qe1.A_m.jpg",
+              "width": 1024,
+              "height": 669
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777242,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "epicenter",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The location on the surface directly above the focus",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qY5ZVWMAnjKeFeFj",
+              "url": "https://o.quizlet.com/bxGgRyrS.Hv94.-2BlM-5A_m.png",
+              "width": 250,
+              "height": 224
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777243,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "volcano",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A weak spot in the crust where magma has come to the surface",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Ev5aC6X95PhHVeHd",
+              "url": "https://farm5.staticflickr.com/4128/5127279893_8de7bc35fc_m.jpg",
+              "width": 500,
+              "height": 333
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777244,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1479413835,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "earthquake",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A shaking or sliding of the ground. It is caused by the sudden movement of masses of rock along a fault or by changes in the size and shape of masses of rock far beneath the earth's surface.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "B7RSJZPgUhq7t6Vq",
+              "url": "https://o.quizlet.com/Z2XAejB0jtMt7JuhWaQ7VQ_m.jpg",
+              "width": 900,
+              "height": 579
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777245,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1479414878,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "continental crust",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The portion of the earth's crust that primarily contains granite, is less dense than oceanic crust, and is 20-50 km thick",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MbPmPqMnbEqYPp6q",
+              "url": "https://o.quizlet.com/kbhJF7hjvP2ymLQ6UaHv6Q_m.png",
+              "width": 304,
+              "height": 166
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777246,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1479414942,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "oceanic crust",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "thinner, more dense, younger crust making ocean floor",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "RKrhjd7vnt2ektBe",
+              "url": "https://o.quizlet.com/LLWSGAcoM9QTKqMBHL6t7w_m.jpg",
+              "width": 129,
+              "height": 65
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777247,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1479415294,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "mantle",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The layer of hot, solid material between Earth's crust and core. The thickest layer.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777248,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1479416352,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "North American Plate",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Lithospheric plate that includes almost all of North America and part of the Atlantic Ocean.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777249,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1479416352,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Andes Mountains",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A large system of mountain ranges located along the Pacific coast of South America formed above the subduction zone of two convverging plates. Oceanic-Continental",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777250,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1479416352,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Mariana Trench",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The location of the deepest trench on earth made from two oceanic crusts converging.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777251,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1479416448,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "San Andreas Fault",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A major geological fault in California formed by a sliding transform boundary.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942160777252,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119761,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1670258448,
+      "lastModified": 1681272660,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 0,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Himalaya Mountains",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 1,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A mountain range formed where continental & continental crust converges. Eurasia & Indian plates",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2001 @@
+{
+  "set": {
+    "id": 792119613,
+    "timestamp": 1681272604,
+    "lastModified": 1681272608,
+    "publishedTimestamp": 1681272608,
+    "wordLang": "en",
+    "defLang": "en",
+    "title": "Biology~Genetics",
+    "description": "",
+    "numTerms": 46,
+    "hasImages": true,
+    "hasDiagrams": false,
+    "_webUrl": "https://quizlet.com/792119613/biologygenetics-flash-cards/"
+  },
+  "studiableItem": [
+    {
+      "id": 1762942102089732,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 0,
+      "creatorId": 305811011,
+      "timestamp": 1541674926,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gene",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a section of DNA on a chromosome that codes for a protein.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "dvgeDf9PNkJxrQa3",
+              "url": "https://o.quizlet.com/i/hjC-atxKwh6CAh67iC6T9Q_m.jpg",
+              "width": 240,
+              "height": 221
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089733,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 1,
+      "creatorId": 305811011,
+      "timestamp": 1541675002,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "alleles",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "one version of a gene. You have one on a chromosome from Mom, the other on the chromosome from Dad. They are represented by capital or lower case letters.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "UBxgjNjBQGqv9URy",
+              "url": "https://o.quizlet.com/i0l6yx0BufJiP5A6tLuBGg_m.jpg",
+              "width": 284,
+              "height": 178
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089734,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 2,
+      "creatorId": 305811011,
+      "timestamp": 1541675042,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "dominant allele",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A version of a gene where you only need one copy in order to express that trait. Represented by a capital letter",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "McsDME3Muca5sfCe",
+              "url": "https://o.quizlet.com/C8m4ksh5bflbShcMMF.7sQ_m.jpg",
+              "width": 210,
+              "height": 252
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089735,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 3,
+      "creatorId": 305811011,
+      "timestamp": 1541675092,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "recessive allele",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A version of a gene that is not expressed if paired with a different type of allele. Represented by a lowercase letter.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "STxtvmxGwETPHwfN",
+              "url": "https://o.quizlet.com/yEEz3N1ihoqhL4Lq9-G7jw_m.jpg",
+              "width": 212,
+              "height": 258
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089736,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 4,
+      "creatorId": 305811011,
+      "timestamp": 1541675133,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "homozygous",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "two of the same alleles. If it is two upper case, the trait is dominant, if it is two lower case, the trait is recessive; (RR/rr)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "SZWprC3gE32FBXVt",
+              "url": "https://o.quizlet.com/gZE6dR425lo5ZJ7oN-FTIg_m.jpg",
+              "width": 354,
+              "height": 142
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089737,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 5,
+      "creatorId": 305811011,
+      "timestamp": 1541675175,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "heterozygous",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A genotype with two different alleles. One capital next to a lower letter; the capital is dominant and is next to a recessive allele; (Rr)",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "ZXEvvK2q2P7EqeCx",
+              "url": "https://o.quizlet.com/wMNWf76IaNG4d54QepfrEg_m.jpg",
+              "width": 233,
+              "height": 217
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089738,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 6,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "complete dominance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the dominant allele will take over the appearance of the recessive allele when there is an uppercase and a lower case together",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "vNDTtHhzKh6MSe5P",
+              "url": "https://o.quizlet.com/IL0ndgR3hHZw16H5mHDo.A_m.jpg",
+              "width": 348,
+              "height": 155
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089739,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 7,
+      "creatorId": 305811011,
+      "timestamp": 1541675218,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "homozygous recessive",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Two copies of the recessive allele make up the genotype. When there are two lower case letters together",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CheMVDAjpHTWTp9c",
+              "url": "https://o.quizlet.com/wRxNrRVgut10sz05XcVD0g_m.jpg",
+              "width": 178,
+              "height": 168
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089740,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 8,
+      "creatorId": 305811011,
+      "timestamp": 1541675201,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "homozygous dominant",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Two copies of the dominant allele makes up the genotype. There are two upper case letters.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "msRbSP8mnvQJ85E2",
+              "url": "https://o.quizlet.com/RxEFsnx5c4qcaq8tRS2CsA_m.png",
+              "width": 317,
+              "height": 228
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089741,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 9,
+      "creatorId": 305811011,
+      "timestamp": 1541675246,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "genotype",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The genetic makeup-- the alleles a person has.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cEVdWa4EP3HM8NAy",
+              "url": "https://o.quizlet.com/f2jx0-8aGsV.bVhywgRmLA_m.jpg",
+              "width": 228,
+              "height": 205
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089742,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 10,
+      "creatorId": 305811011,
+      "timestamp": 1541675261,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "phenotype",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "How the genotype is expressed in the individual.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "5CHsSgtXQ2jgj8dP",
+              "url": "https://o.quizlet.com/PMwc8C7VCxQGK.yW.aH0JQ_m.jpg",
+              "width": 257,
+              "height": 196
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089743,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 11,
+      "creatorId": 305811011,
+      "timestamp": 1541675324,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Punnet Square",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A tool that is used to determine the likelihood of offspring traits.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "qhsWbzQ83wsKgD7U",
+              "url": "https://o.quizlet.com/ZSVLydUd8C5zRmqFHn1rnQ_m.png",
+              "width": 220,
+              "height": 220
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089744,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 12,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Genotypic ratio",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "count the number of squares that have the same letter combination",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "yjqCDSwuWV9By9MC",
+              "url": "https://o.quizlet.com/QfpnhTghu7B56m22r-tZtw_m.jpg",
+              "width": 300,
+              "height": 170
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089745,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 13,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Phenotypic ratio",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "count the number of squares that have different physical appearances",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "WdXEgQBKR6fjZzDq",
+              "url": "https://o.quizlet.com/pBYeSjswIlz6TZ0WBz8HVA_m.jpg",
+              "width": 425,
+              "height": 247
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089746,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 14,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "homozygous x homozygous",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "no ratio; 100% have the same genotype and phenotype",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "msRbSP8mnvQJ85E2",
+              "url": "https://o.quizlet.com/RxEFsnx5c4qcaq8tRS2CsA_m.png",
+              "width": 317,
+              "height": 228
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089747,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 15,
+      "creatorId": 305811011,
+      "timestamp": 1541675348,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Karyotype",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "the number and visual appearance of the chromosomes in the cell nuclei of an organism or species-- used to identify chromosomal abnormalities.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Jasa3dQDuQYQn8yf",
+              "url": "https://o.quizlet.com/hAd28e-Cvx40InhehUxHdQ_m.jpg",
+              "width": 237,
+              "height": 213
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089748,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 16,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Trisomy",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a condition in which an extra copy of a chromosome is present in the cell nuclei, causing developmental abnormalities",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "fyAKjZCEuapBNwVn",
+              "url": "https://o.quizlet.com/WhrUTn21kH4dVOpSf7P5dQ_m.jpg",
+              "width": 209,
+              "height": 241
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089749,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 17,
+      "creatorId": 305811011,
+      "timestamp": 1541675367,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "incomplete dominance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "two alleles blend together, giving a heterozygote a blended phenotype",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "CukrXQV6DbXMF35Z",
+              "url": "https://o.quizlet.com/lXiCOm8gIN2dNLuvwbNyWg_m.jpg",
+              "width": 404,
+              "height": 450
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089750,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 18,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "codominance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "two alleles share dominance by both expressing themselves",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "9PeKCPc7bBeXv5jq",
+              "url": "https://o.quizlet.com/nbnP7F8ugNSnbzC6lnD6EQ_m.jpg",
+              "width": 240,
+              "height": 189
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089751,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 19,
+      "creatorId": 305811011,
+      "timestamp": 1541674899,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "polygenic inheritance",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "traits controlled by more than one gene",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "cE4sdRjt9KWXHSWv",
+              "url": "https://o.quizlet.com/i/CQ-DkUVZY6oYvjJxNg9AXQ_m.jpg",
+              "width": 240,
+              "height": 161
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089752,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 20,
+      "creatorId": 305811011,
+      "timestamp": 1541675370,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "X chromosome",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Females have two; many genetic diseases are carried on the x chromosome",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "Qgc8Xx5svbM4jH8k",
+              "url": "https://o.quizlet.com/6XlDgCel1LujLYLYF2FcQQ_m.jpg",
+              "width": 259,
+              "height": 194
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089753,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 21,
+      "creatorId": 305811011,
+      "timestamp": 1541675407,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Y chromosome",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "only found in males, smaller than the X chromosome.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MYHktNUaxbepMpMa",
+              "url": "https://o.quizlet.com/i/l6REdziUgwycxss-cfFSfg_m.jpg",
+              "width": 500,
+              "height": 429
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089754,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 22,
+      "creatorId": 305811011,
+      "timestamp": 1541675446,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "pedigree chart",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a way of identifying inheritance patterns in genetic diseases and disorders in a family. No color in shape = normal, half color in shape= carrier, color in shape = disease",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "96KfPT8Q5wUmTnjy",
+              "url": "https://o.quizlet.com/gqzyfmA8-i-FVeUm8M9Drw_m.png",
+              "width": 240,
+              "height": 147
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089755,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 23,
+      "creatorId": 305811011,
+      "timestamp": 1541675472,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "X-linked (sex-linked)",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gene found on the X chromosomes; traits more common in males since males only have one copy of the gene. (if they receive the recessive allele they have no dominant allele to mask it).",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "MXxuzNDAxjGTrTFM",
+              "url": "https://o.quizlet.com/i/r0aY1TwmVjLaCRXoMj91qQ_m.jpg",
+              "width": 240,
+              "height": 103
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089756,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 24,
+      "creatorId": 305811011,
+      "timestamp": 1541675370,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "process by which 4 reproductive cells are made in a sexually reproducing organism",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089757,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 25,
+      "creatorId": 305811011,
+      "timestamp": 1541675502,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Crossing Over",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "creates variations between gametes, homologous chromosomes mix genes in prophase I.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089758,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 26,
+      "creatorId": 305811011,
+      "timestamp": 1541675502,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Diploid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a cell that contains two copies of every chromosomes. All \"autosomal\" cells.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089759,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 27,
+      "creatorId": 305811011,
+      "timestamp": 1541675523,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Haploid",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "a cell that contains half the number of chromosomes of the body cell. Sex cells-- sperm and eggs.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089760,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 28,
+      "creatorId": 305811011,
+      "timestamp": 1541675523,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "gamete",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sex cell; an egg or a sperm cell",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089761,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 29,
+      "creatorId": 305811011,
+      "timestamp": 1541675370,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "46",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "human diploid number",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089762,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 30,
+      "creatorId": 305811011,
+      "timestamp": 1541675370,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "23",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "human haploid number",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089763,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 31,
+      "creatorId": 305811011,
+      "timestamp": 1541675370,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "heterozygous x heterozygous",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "results in a 1:2:1 genotypic ratio",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089764,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 32,
+      "creatorId": 305811011,
+      "timestamp": 1541675554,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Blood Types",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A, B, AB and O. Type O is the universal donor and AB blood is known as the universal recipient.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089765,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 33,
+      "creatorId": 305811011,
+      "timestamp": 1541675583,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "sickle cell anemia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "an autosomal recessive disorder that causes abnormal hemoglobin, resulting in some red blood cells assuming an abnormal sickle shape",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089766,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 34,
+      "creatorId": 305811011,
+      "timestamp": 1541675605,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Cystic Fibrosis",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "autosomal recessive disorder that affects the lungs and digestive system of the individual",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089767,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 35,
+      "creatorId": 305811011,
+      "timestamp": 1541675616,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Huntington's Disease",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A human genetic disease caused by a dominant allele; characterized by uncontrollable body movements and degeneration of the nervous system; usually fatal 10 to 20 years after the onset of symptoms.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089768,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 36,
+      "creatorId": 305811011,
+      "timestamp": 1541675628,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Hemophilia",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "An X-linked recessive disorder in which blood fails to clot properly, leading to excessive bleeding if injured.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089769,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 37,
+      "creatorId": 305811011,
+      "timestamp": 1541675664,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Red-Green Color Blindness",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "A common, recessive sex-linked genetic trait.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089770,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 38,
+      "creatorId": 305811011,
+      "timestamp": 1541675712,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis I: Prophase I",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "The nuclear membrane dissolves.\nChromatin tightly coils up.\nHomologous chromosomes, each composed of two sister chromatids, come together. Chromatids of homologous chromosomes exchange segments in a process called crossing over.",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "s8ZQkmnYhPb7qumr",
+              "url": "https://o.quizlet.com/vedWX-Aell0YSbmuytGp1A_m.png",
+              "width": 240,
+              "height": 320
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089771,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 39,
+      "creatorId": 305811011,
+      "timestamp": 1541675735,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Steps of Meiosis",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Prophase 1, Metaphase 1, Anaphase 1, Telophase 1, Prophase 2, Metaphase 2, Anaphase 2, Telophase 2",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089772,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 40,
+      "creatorId": 305811011,
+      "timestamp": 1541675766,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis I: Anaphase I",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "As the cell moves into anaphase I, \nthe homologous pairs of chromosomes separate. \nDuring anaphase I, spindle fibers pull each \nhomologous chromosome pair toward opposite \nends of the cell.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089773,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 41,
+      "creatorId": 305811011,
+      "timestamp": 1541675813,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis II: Anaphase II",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sister chromatids separate, individual chromosomes move toward opposite poles.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089774,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 42,
+      "creatorId": 305811011,
+      "timestamp": 1541676015,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis I",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "homologous chromosomes separate, results in 2 diploid cells.",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089775,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 43,
+      "creatorId": 305811011,
+      "timestamp": 1541675852,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Meiosis II",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Sister chromatids separate\nResults in 4 haploid daughter cells with unreplicated chromosomes",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089776,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 44,
+      "creatorId": 305811011,
+      "timestamp": 1541676015,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Turner's Syndrome",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "hP4NErTqYC62b3Mt",
+              "url": "https://o.quizlet.com/i/aGNInOzlb9bn6vaGbc-i1w_m.jpg",
+              "width": 240,
+              "height": 155
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    },
+    {
+      "id": 1762942102089777,
+      "studiableContainerType": 1,
+      "studiableContainerId": 792119613,
+      "type": 2,
+      "rank": 45,
+      "creatorId": 305811011,
+      "timestamp": 1541676033,
+      "lastModified": 1681272604,
+      "isDeleted": false,
+      "cardSides": [
+        {
+          "sideId": 1,
+          "label": "word",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "Klinefelter Syndrome",
+              "languageCode": "en",
+              "richText": null
+            }
+          ],
+          "distractors": []
+        },
+        {
+          "sideId": 2,
+          "label": "definition",
+          "media": [
+            {
+              "type": 1,
+              "plainText": "",
+              "languageCode": "en",
+              "richText": null
+            },
+            {
+              "type": 2,
+              "code": "sCAqnw9E2zPhDHgs",
+              "url": "https://o.quizlet.com/i/o4BlhjytXr_PKuW6BUqVxg_m.jpg",
+              "width": 240,
+              "height": 146
+            }
+          ],
+          "distractors": []
+        }
+      ]
+    }
+  ]
+}
